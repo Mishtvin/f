@@ -1,0 +1,111 @@
+section.cart {
+
+    .wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+
+        .cart-body {
+            width: calc(100% - var(--cart-sidebar));
+            padding-right: var(--padding-lg);
+
+            .cart-products-block {
+                padding: 4rem;
+                background: var(--bg);
+                border: 1px solid var(--border);
+
+                .block-title {
+                    display: flex;
+                    align-items: center;
+
+                    .count {
+                        margin-left: 1rem;
+                    }
+
+                }
+
+            }
+
+            .checkout-form {
+                padding: 4rem;
+                border: 1px solid var(--border);
+                background: var(--bg);
+            }
+
+        }
+
+        .cart-sidebar {
+            width: var(--cart-sidebar);
+            background: var(--bg);
+            padding: 4rem;
+            border: 1px solid var(--border);
+        }
+
+    }
+
+}
+
+@media (max-width: 767.99px) {
+
+    section.cart {
+
+        .wrapper {
+            display: block;
+
+            & > * {
+                width: 100% !important;
+
+                &:not(:last-child) {
+                    margin-bottom: 4rem;
+                }
+
+            }
+
+            .cart-body {
+                padding-right: 0;
+
+                .cart-products-block {
+                    padding: 3rem;
+                }
+
+                .checkout-form {
+                    padding: 3rem;
+                }
+
+            }
+
+            .cart-sidebar {
+                padding: 3rem;
+            }
+
+        }
+
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1024.99px) {
+
+    section.cart {
+
+        .wrapper {
+            display: block;
+
+            & > * {
+                width: 100% !important;
+
+                &:not(:last-child) {
+                    margin-bottom: 4rem;
+                }
+
+            }
+
+            .cart-body {
+                padding-right: 0;
+            }
+
+        }
+
+    }
+
+}

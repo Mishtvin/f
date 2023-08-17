@@ -1,0 +1,2708 @@
+{
+    "": {
+        "slug": "",
+        "name": "Москва",
+        "genitive": "Москве",
+        "address": "г. Москва, 2-й Тройский переулок, 8\/10с4. "
+    },
+    "spb": {
+        "slug": "spb",
+        "name": "Санкт-Петербург",
+        "genitive": "Санкт-Петербурге",
+        "address": "г. Санкт-Петербург, ул. Военная, 4."
+    },
+    "samara": {
+        "slug": "samara",
+        "name": "Самара",
+        "genitive": "Самаре",
+        "address": "г. Самара, ул. Фрунзе, 115."
+    },
+    "adler": {
+        "slug": "adler",
+        "name": "Адлер",
+        "genitive": "Адлере",
+        "address": "г. Адлер, ул. Куйбышева, 18."
+    },
+    "abakan": {
+        "slug": "abakan",
+        "name": "Абакан",
+        "genitive": "Абакане",
+        "address": "г. Абакан, ул. Маршала Жукова, 19."
+    },
+    "azov": {
+        "slug": "azov",
+        "name": "Азов",
+        "genitive": "Азове",
+        "address": "г. Азов, ул. Красноармейский переулок, 94."
+    },
+    "alapaevsk": {
+        "slug": "alapaevsk",
+        "name": "Алапаевск",
+        "genitive": "Алапаевске",
+        "address": "г. Алапаевск, ул. Тюрикова, 3."
+    },
+    "aleksandrov": {
+        "slug": "aleksandrov",
+        "name": "Александров",
+        "genitive": "Александрове",
+        "address": "г. Александров, ул. Ленина, 61."
+    },
+    "alushta": {
+        "slug": "alushta",
+        "name": "Алушта",
+        "genitive": "Алуште",
+        "address": "г. Алушта, ул. Партизанская, 3.\r\n"
+    },
+    "almetevsk": {
+        "slug": "almetevsk",
+        "name": "Альметьевск",
+        "genitive": "Альметьевске",
+        "address": "г. Альметьевск, ул. Маяковского, 35."
+    },
+    "anapa": {
+        "slug": "anapa",
+        "name": "Анапа",
+        "genitive": "Анапе",
+        "address": "г. Анапа, ул. Терская, 118."
+    },
+    "apatity": {
+        "slug": "apatity",
+        "name": "Апатиты",
+        "genitive": "Апатитах ",
+        "address": "г. Апатиты, ул. Фестивальная, 6А."
+    },
+    "apsheronsk": {
+        "slug": "apsheronsk",
+        "name": "Апшеронск",
+        "genitive": "Апшеронске",
+        "address": "г. Апшеронск, ул. Коммунистическая, 45."
+    },
+    "arzamas": {
+        "slug": "arzamas",
+        "name": "Арзамас",
+        "genitive": "Арзамасе",
+        "address": "г. Арзамас, ул. Шер,3."
+    },
+    "armavir": {
+        "slug": "armavir",
+        "name": "Армавир",
+        "genitive": "Армавире",
+        "address": "г. Армавир, ул. Тургенева, 83."
+    },
+    "arsenev": {
+        "slug": "arsenev",
+        "name": "Арсеньев",
+        "genitive": "Арсеньеве",
+        "address": "г. Арсеньев, ул. Победы, 26."
+    },
+    "arxangelsk": {
+        "slug": "arxangelsk",
+        "name": "Архангельск",
+        "genitive": "Архангельске",
+        "address": "г. Архангельск, ул. Гайдара, 49к1."
+    },
+    "astraxan": {
+        "slug": "astraxan",
+        "name": "Астрахань",
+        "genitive": "Астрахани",
+        "address": "г. Астрахань, ул. Свердлова, 56."
+    },
+    "balashiha": {
+        "slug": "balashiha",
+        "name": "Балашиха",
+        "genitive": "Балашихе",
+        "address": "г. Балашиха, ул. Флёрова, 4."
+    },
+    "balashov": {
+        "slug": "balashov",
+        "name": "Балашов",
+        "genitive": "Балашове",
+        "address": "г. Балашов, ул. Карла Маркса, 79."
+    },
+    "batajsk": {
+        "slug": "batajsk",
+        "name": "Батайск",
+        "genitive": "Батайске",
+        "address": "г. Батайск, ул. Мира, 239."
+    },
+    "belayakalitva": {
+        "slug": "belayakalitva",
+        "name": "Белая Калитва",
+        "genitive": "Белой Калитве",
+        "address": "г. Белая Калитва, ул. Дзержинского, 13\/9."
+    },
+    "belgorod": {
+        "slug": "belgorod",
+        "name": "Белгород",
+        "genitive": "Белгороде",
+        "address": "г. Белгород, ул. Попова, 25."
+    },
+    "belebej": {
+        "slug": "belebej",
+        "name": "Белебей",
+        "genitive": "Белебее",
+        "address": "г. Белебей, ул. Пролетарская, 134."
+    },
+    "beloreck": {
+        "slug": "beloreck",
+        "name": "Белорецк",
+        "genitive": "Белорецке",
+        "address": "г. Белорецк, ул. Карла Маркса, 74."
+    },
+    "belorechensk": {
+        "slug": "belorechensk",
+        "name": "Белореченск",
+        "genitive": "Белореченске",
+        "address": "г. Белореченск, ул. Толстого, 146."
+    },
+    "berezniki": {
+        "slug": "berezniki",
+        "name": "Березники",
+        "genitive": "Березниках",
+        "address": "г. Березники, ул. Парковая, 3."
+    },
+    "bijsk": {
+        "slug": "bijsk",
+        "name": "Бийск",
+        "genitive": "Бийске",
+        "address": "г. Бийск, ул. Сенная, 124А."
+    },
+    "blagoveshchensk": {
+        "slug": "blagoveshchensk",
+        "name": "Благовещенск",
+        "genitive": "Благовещенске",
+        "address": "г. Благовещенск, ул. Островского, 143\/1."
+    },
+    "borisoglebsk": {
+        "slug": "borisoglebsk",
+        "name": "Борисоглебск",
+        "genitive": "Борисоглебске",
+        "address": "г. Борисоглебск, ул. Матросовская, 98. "
+    },
+    "borovichi": {
+        "slug": "borovichi",
+        "name": "Боровичи",
+        "genitive": "Боровичах",
+        "address": "г. Боровичи, ул. Льва Толстого, 77."
+    },
+    "bratsk": {
+        "slug": "bratsk",
+        "name": "Братск",
+        "genitive": "Братске",
+        "address": "г. Братск, ул. Депутатская, 13а. "
+    },
+    "volgograd": {
+        "slug": "volgograd",
+        "name": "Волгоград",
+        "genitive": "Волгограде",
+        "address": "г. Волгоград, ул. Козловская, 49\/1. "
+    },
+    "volgodonsk": {
+        "slug": "volgodonsk",
+        "name": "Волгодонск",
+        "genitive": "Волгодонске",
+        "address": "г. Волгодонск, ул. Шолохова, 24а."
+    },
+    "vologda": {
+        "slug": "vologda",
+        "name": "Вологда",
+        "genitive": "Вологде",
+        "address": "г. Вологда, ул. Козлёнская, 4."
+    },
+    "vorkuta": {
+        "slug": "vorkuta",
+        "name": "Воркута",
+        "genitive": "Воркуте",
+        "address": "г. Воркута, ул. Ленина, 24."
+    },
+    "voronezh": {
+        "slug": "voronezh",
+        "name": "Воронеж",
+        "genitive": "Воронеже",
+        "address": "г. Воронеж, ул. Мельничные переулок, 1."
+    },
+    "voskresensk": {
+        "slug": "voskresensk",
+        "name": "Воскресенск",
+        "genitive": "Воскресенске",
+        "address": "г. Воскресенск, ул. Пионерская, 21."
+    },
+    "vyborg": {
+        "slug": "vyborg",
+        "name": "Выборг",
+        "genitive": "Выборге",
+        "address": "г. Выборг, ул. Репина, 9."
+    },
+    "vyshnijvolochek": {
+        "slug": "vyshnijvolochek",
+        "name": "Вышний Волочек",
+        "genitive": "Вышнем Волочке",
+        "address": "г. Вышний Волочек, ул. Казачий проспект, 123."
+    },
+    "vyazma": {
+        "slug": "vyazma",
+        "name": "Вязьма",
+        "genitive": "Вязьме",
+        "address": "г. Вязьма, ул. 1 Мая, 3."
+    },
+    "gatchina": {
+        "slug": "gatchina",
+        "name": "Гатчина",
+        "genitive": "Гатчине",
+        "address": "г. Гатчина, ул. Проспект 25 Октября, 29."
+    },
+    "gelendzhik": {
+        "slug": "gelendzhik",
+        "name": "Геленджик",
+        "genitive": "Геленджике",
+        "address": "г. Геленджик, ул. Островского, 19."
+    },
+    "georgievsk": {
+        "slug": "georgievsk",
+        "name": "Георгиевск",
+        "genitive": "Георгиевске",
+        "address": "г. Георгиевск, ул. Пушкино, 33."
+    },
+    "glazov": {
+        "slug": "glazov",
+        "name": "Глазов",
+        "genitive": "Глазове",
+        "address": "г. Глазов, ул. Энгельса, 25."
+    },
+    "golicino": {
+        "slug": "golicino",
+        "name": "Голицыно",
+        "genitive": "Голицыне",
+        "address": "г. Голицыно, ул. Советская, 60а."
+    },
+    "goryachijklyuch": {
+        "slug": "goryachijklyuch",
+        "name": "Горячий Ключ",
+        "genitive": "Горячем Ключе",
+        "address": "г. Горячий Ключ, ул. Тараника, 15."
+    },
+    "groznyj": {
+        "slug": "groznyj",
+        "name": "Грозный",
+        "genitive": "Грозном",
+        "address": "г. Грозный, ул. Шейха Али Митаева, 17."
+    },
+    "gukovo": {
+        "slug": "gukovo",
+        "name": "Гуково",
+        "genitive": "Гукове",
+        "address": "г. Гуково, ул. Криничная, 42."
+    },
+    "dagomys": {
+        "slug": "dagomys",
+        "name": "Дагомыс",
+        "genitive": "Дагомысе",
+        "address": "г. Дагомыс, ул. Батумское шоссе, 18к1."
+    },
+    "dzerzhinsk": {
+        "slug": "dzerzhinsk",
+        "name": "Дзержинск",
+        "genitive": "Дзержинске",
+        "address": "г. Дзержинск, ул. Грибоедова, 5."
+    },
+    "dimitrovgrad": {
+        "slug": "dimitrovgrad",
+        "name": "Димитровград",
+        "genitive": "Димитровграде",
+        "address": "г. Димитровград, ул. Комсомольская, 98."
+    },
+    "komecy": {
+        "slug": "komecy",
+        "name": "Клинцы",
+        "genitive": "Клинцах",
+        "address": "г. Клинцы, ул. Свердлова, 68."
+    },
+    "kovrov": {
+        "slug": "kovrov",
+        "name": "Ковров",
+        "genitive": "Коврове",
+        "address": "г. Ковров, ул. Куйбышева, 11."
+    },
+    "kovylkino": {
+        "slug": "kovylkino",
+        "name": "Ковылкино",
+        "genitive": "Ковылкино",
+        "address": "г. Ковылкино, ул. Комсомольское, 34."
+    },
+    "kogalym": {
+        "slug": "kogalym",
+        "name": "Когалым",
+        "genitive": "Когалыме",
+        "address": "г. Когалым, ул. Молодёжная, 28. "
+    },
+    "kolpino": {
+        "slug": "kolpino",
+        "name": "Колпино",
+        "genitive": "Колпине",
+        "address": "г. Колпино, ул. Площадь Коммуны, 7."
+    },
+    "konakovo": {
+        "slug": "konakovo",
+        "name": "Конаково",
+        "genitive": "Конаково",
+        "address": "г. Конаково, ул. Энергетиков, 33а"
+    },
+    "kopejsk": {
+        "slug": "kopejsk",
+        "name": "Копейск",
+        "genitive": "Копейске",
+        "address": "г. Копейск, ул. Проспект Победы, 17."
+    },
+    "korolev": {
+        "slug": "korolev",
+        "name": "Королев",
+        "genitive": "Королеве",
+        "address": "г. Королев, ул. Соколова, 8а."
+    },
+    "koryazhma": {
+        "slug": "koryazhma",
+        "name": "Коряжма",
+        "genitive": "Коряжме",
+        "address": "г. Коряжма, ул. Театральная, 11."
+    },
+    "kotlas": {
+        "slug": "kotlas",
+        "name": "Котлас",
+        "genitive": "Котласе",
+        "address": "г. Котлас, ул. Переулок Чкалова, 1."
+    },
+    "sudak": {
+        "slug": "sudak",
+        "name": "Судак",
+        "genitive": "Судаке",
+        "address": "г. Судак, ул. Бирюзова, 1."
+    },
+    "suzdal": {
+        "slug": "suzdal",
+        "name": "Суздаль",
+        "genitive": "Суздале",
+        "address": "г. Суздаль, ул. Туристическая, 13."
+    },
+    "surgut": {
+        "slug": "surgut",
+        "name": "Сургут",
+        "genitive": "Сургуте",
+        "address": "г. Сургут, ул. проспект Ленина, 52\/1."
+    },
+    "taganrog": {
+        "slug": "taganrog",
+        "name": "Таганрог",
+        "genitive": "Таганроге",
+        "address": "г. Таганрог, ул. Фрунзе, 174А."
+    },
+    "tambov": {
+        "slug": "tambov",
+        "name": "Тамбов",
+        "genitive": "Тамбове",
+        "address": "г. Тамбов, ул. Пятницкая, 18."
+    },
+    "temryuk": {
+        "slug": "temryuk",
+        "name": "Темрюк",
+        "genitive": "Темрюке",
+        "address": "г. Темрюк, ул. Розы Люксембург, 46."
+    },
+    "timashevsk": {
+        "slug": "timashevsk",
+        "name": "Тимашевск",
+        "genitive": "Тимашевске",
+        "address": "г. Тимашевск, ул. Вокзальная, 70."
+    },
+    "tihvin": {
+        "slug": "tihvin",
+        "name": "Тихвин",
+        "genitive": "Тихвине",
+        "address": "г. Тихвин, ул. Карла Маркса, 9А."
+    },
+    "tihoreck": {
+        "slug": "tihoreck",
+        "name": "Тихорецк",
+        "genitive": "Тихорецке",
+        "address": "г. Тихорецк, ул. Кузнечная, 56."
+    },
+    "torzhok": {
+        "slug": "torzhok",
+        "name": "Торжок",
+        "genitive": "Торжке",
+        "address": "г. Торжок, ул. Радищева, 15."
+    },
+    "bugulma": {
+        "slug": "bugulma",
+        "name": "Бугульма",
+        "genitive": "Бугульме",
+        "address": "г. Бугульма, ул. Николая Гоголя, 63."
+    },
+    "budennovsk": {
+        "slug": "budennovsk",
+        "name": "Буденновск",
+        "genitive": "Буденновске",
+        "address": "г. Буденновск, ул. Октябрьская, 49. "
+    },
+    "buzuluk": {
+        "slug": "buzuluk",
+        "name": "Бузулук",
+        "genitive": "Бузулуке",
+        "address": "г. Бузулук, ул. Ленина, 25."
+    },
+    "veiikie-luki": {
+        "slug": "veiikie-luki",
+        "name": "Великие Луки",
+        "genitive": "Великих Луках",
+        "address": "г. Великие Луки, ул. Дьяконова, 33."
+    },
+    "velikijnovgorod": {
+        "slug": "velikijnovgorod",
+        "name": "Великий Новгород",
+        "genitive": "Великом Новгороде",
+        "address": "г. Великий Новгород, ул. Черняховского, 76."
+    },
+    "velsk": {
+        "slug": "velsk",
+        "name": "Вельск",
+        "genitive": "Вельске",
+        "address": "г. Вельск, ул. Гагарина, 19."
+    },
+    "vidnoe": {
+        "slug": "vidnoe",
+        "name": "Видное",
+        "genitive": "Видном",
+        "address": "г. Видное, ул. Вокзальный проезд, 5."
+    },
+    "vladivostok": {
+        "slug": "vladivostok",
+        "name": "Владивосток",
+        "genitive": "Владивостоке",
+        "address": "г. Владивосток, ул. Некрасовский переулок, 21."
+    },
+    "vladikavkaz": {
+        "slug": "vladikavkaz",
+        "name": "Владикавказ",
+        "genitive": "Владикавказе",
+        "address": "г. Владикавказ, ул. Весёлая, 21."
+    },
+    "vladimir": {
+        "slug": "vladimir",
+        "name": "Владимир",
+        "genitive": "Владимире",
+        "address": "г. Владимир, ул. Гагарина, 15."
+    },
+    "kanash": {
+        "slug": "kanash",
+        "name": "Канаш",
+        "genitive": "Канаше",
+        "address": "г. Канаш, ул. Чайковского, 10."
+    },
+    "kansk": {
+        "slug": "kansk",
+        "name": "Канск",
+        "genitive": " Канске",
+        "address": "г. Канск, ул. Московская, 47."
+    },
+    "katajsk": {
+        "slug": "katajsk",
+        "name": "Катайск",
+        "genitive": "Катайске",
+        "address": "г. Катайск, ул. Кобякова, 3."
+    },
+    "kashira": {
+        "slug": "kashira",
+        "name": "Кашира",
+        "genitive": "Кашире",
+        "address": "г. Кашира, ул. Площадь Облог, 5."
+    },
+    "kerch": {
+        "slug": "kerch",
+        "name": "Керчь",
+        "genitive": "Керчи",
+        "address": "г. Керчь, ул. Крупской, 41."
+    },
+    "kizlyar": {
+        "slug": "kizlyar",
+        "name": "Кизляр",
+        "genitive": "Кизляре",
+        "address": "г. Кизляр, ул. Мичурина, 13."
+    },
+    "kirov": {
+        "slug": "kirov",
+        "name": "Киров",
+        "genitive": "Кирове",
+        "address": "г. Киров, ул. Герцена, 40."
+    },
+    "kiselevsk": {
+        "slug": "kiselevsk",
+        "name": "Киселевск",
+        "genitive": "Киселевске",
+        "address": "г. Киселевск, ул. Коммунальная, 18."
+    },
+    "kislovodsk": {
+        "slug": "kislovodsk",
+        "name": "Кисловодск",
+        "genitive": "Кисловодске",
+        "address": "г. Кисловодск, ул. Тюленева, 10."
+    },
+    "klim": {
+        "slug": "klim",
+        "name": "Клин",
+        "genitive": "Клине",
+        "address": "г. Клин, ул. Карла Маркса, 68."
+    },
+    "serov": {
+        "slug": "serov",
+        "name": "Серов",
+        "genitive": "Серове",
+        "address": "г. Серов, ул. Кирова, 25."
+    },
+    "serpuhov": {
+        "slug": "serpuhov",
+        "name": "Серпухов",
+        "genitive": "Серпухове",
+        "address": "г. Серпухов, ул. Кирова, 25."
+    },
+    "sibaj": {
+        "slug": "sibaj",
+        "name": "Сибай",
+        "genitive": "Сибае",
+        "address": "г. Сибай, ул. проспект Горняков, 43."
+    },
+    "slavyansk-na-kubani": {
+        "slug": "slavyansk-na-kubani",
+        "name": "Славянск-на-Кубани",
+        "genitive": "Славянске-на-Кубани",
+        "address": "г. Славянск-на-Кубани, ул. Крупской, 247."
+    },
+    "snezhinsk": {
+        "slug": "snezhinsk",
+        "name": "Снежинск",
+        "genitive": "Снежинске",
+        "address": "г. Снежинск, ул. Ленина, 11."
+    },
+    "solikamsk": {
+        "slug": "solikamsk",
+        "name": "Соликамск",
+        "genitive": "Соликамске",
+        "address": "г. Соликамск, ул. Соликамское шоссе, 11."
+    },
+    "sortavala": {
+        "slug": "sortavala",
+        "name": "Сортавала",
+        "genitive": "Сортавале",
+        "address": "г. Сортавала, ул. Горького, 5."
+    },
+    "sochi": {
+        "slug": "sochi",
+        "name": "Сочи",
+        "genitive": "Сочи",
+        "address": "г. Сочи, ул. Войкова, 30."
+    },
+    "staryj-oskol": {
+        "slug": "staryj-oskol",
+        "name": "Старый Оскол",
+        "genitive": "Старом Осколе",
+        "address": "г. Старый Оскол, ул. Новая улица, 5."
+    },
+    "stupino": {
+        "slug": "stupino",
+        "name": "Ступино",
+        "genitive": "Ступино",
+        "address": "г. Ступино, ул. Пристанционная, 12."
+    },
+    "obninsk": {
+        "slug": "obninsk",
+        "name": "Обнинск",
+        "genitive": "Обнинске",
+        "address": "г. Обнинск, ул. Гагарина, 37б."
+    },
+    "odincovo": {
+        "slug": "odincovo",
+        "name": "Одинцово",
+        "genitive": "Одинцово",
+        "address": "г. Одинцово, ул. Маршала Бирюзова, 2а."
+    },
+    "oryol": {
+        "slug": "oryol",
+        "name": "Орёл",
+        "genitive": "Орле",
+        "address": "г. Орёл, ул. Максима Горького, 20."
+    },
+    "orekhovo-zuevo": {
+        "slug": "orekhovo-zuevo",
+        "name": "Орехово-Зуево",
+        "genitive": "Орехово-Зуево",
+        "address": "г. Орехова-Зуево, ул. Ленина, 59."
+    },
+    "pavlovskij-posad": {
+        "slug": "pavlovskij-posad",
+        "name": "Павловский Посад",
+        "genitive": "Павловском Посаде",
+        "address": "г. Павловский Посад, ул. Кирова, 9."
+    },
+    "primorsko-ahtarsk": {
+        "slug": "primorsko-ahtarsk",
+        "name": "Приморско-Ахтарск",
+        "genitive": "Приморско-Ахтарске",
+        "address": "г. Приморского-Ахтарск, ул. 50 лет Октября, 94."
+    },
+    "pushkin": {
+        "slug": "pushkin",
+        "name": "Пушкин",
+        "genitive": "Пушкине",
+        "address": "г. Пушкин, ул. Пушкинская, 32\/24."
+    },
+    "pushkino": {
+        "slug": "pushkino",
+        "name": "Пушкино",
+        "genitive": "Пушкино",
+        "address": "г. Пушкино, ул. Писаревская, 6."
+    },
+    "pyt-yah": {
+        "slug": "pyt-yah",
+        "name": "Пыть-Ях",
+        "genitive": "Пыть-Яхе",
+        "address": "г. Пыть-Ях, ул. Первопроходцев, 7."
+    },
+    "ramenskoe": {
+        "slug": "ramenskoe",
+        "name": "Раменское",
+        "genitive": "Раменском",
+        "address": "г. Раменское, ул. Рабочая, 9.\r\n"
+    },
+    "dmitrov": {
+        "slug": "dmitrov",
+        "name": "Дмитров",
+        "genitive": "Дмитрове",
+        "address": "г. Дмитров, ул. Кропоткинская, 73."
+    },
+    "domodedova": {
+        "slug": "domodedova",
+        "name": "Домодедова",
+        "genitive": "Домодедове",
+        "address": "г. Домодедова, ул. Школьная, 11."
+    },
+    "dubna": {
+        "slug": "dubna",
+        "name": "Дубна",
+        "genitive": "Дубне",
+        "address": "г. Дубна, ул. Попова, 5."
+    },
+    "evpatoriya": {
+        "slug": "evpatoriya",
+        "name": "Евпатория",
+        "genitive": "Евпатории",
+        "address": "г. Евпатория, ул. Гагарина, 8а."
+    },
+    "elabuga": {
+        "slug": "elabuga",
+        "name": "Елабуга",
+        "genitive": "Елабуге",
+        "address": "г. Елабуга, ул. Гассара, 21."
+    },
+    "egorevsk": {
+        "slug": "egorevsk",
+        "name": "Егорьевск",
+        "genitive": "Егорьевске",
+        "address": "г. Егорьевск, ул. 8 Марта, 20."
+    },
+    "elec": {
+        "slug": "elec",
+        "name": "Елец",
+        "genitive": "Ельце",
+        "address": "г. Елец, ул. Горького, 67."
+    },
+    "essentuki": {
+        "slug": "essentuki",
+        "name": "Ессентуки",
+        "genitive": "Ессентуках",
+        "address": "г. Ессентуки, ул. Кисловодская, 30."
+    },
+    "zheleznodorozhnyj": {
+        "slug": "zheleznodorozhnyj",
+        "name": "Железнодорожный",
+        "genitive": "Железнодорожном",
+        "address": "Ул. Пролетарская, 46. "
+    },
+    "zvenigorod": {
+        "slug": "zvenigorod",
+        "name": "Звенигород",
+        "genitive": "Звенигороде",
+        "address": "г. Звенигород, ул. Комарова, 6."
+    },
+    "fryazino": {
+        "slug": "fryazino",
+        "name": "Фрязино",
+        "genitive": "Фрязино",
+        "address": "г. Фрязино, ул. проспект Мира, 9с1."
+    },
+    "hanty-mansijsk": {
+        "slug": "hanty-mansijsk",
+        "name": "Ханты-Мансийск",
+        "genitive": "Ханты-Мансийске",
+        "address": "г. Ханты-Мансийск, ул. Чехова, 10."
+    },
+    "chajkovskij": {
+        "slug": "chajkovskij",
+        "name": "Чайковский",
+        "genitive": "Чайковском",
+        "address": "г. Чайковский, ул. Вокзальная, 61."
+    },
+    "cherkessk": {
+        "slug": "cherkessk",
+        "name": "Черкесск",
+        "genitive": "Черкесске",
+        "address": "г. Черкесск, ул. Новая, 3."
+    },
+    "shadrinsk": {
+        "slug": "shadrinsk",
+        "name": "Шадринск",
+        "genitive": "Шадринске",
+        "address": "г. Шадринск, ул. Свердлова, 108."
+    },
+    "sharypovo": {
+        "slug": "sharypovo",
+        "name": "Шарыпово",
+        "genitive": "Шарыпово",
+        "address": "г. Шарыпово, ул. 4-й микрорайон, 23."
+    },
+    "shahty": {
+        "slug": "shahty",
+        "name": "Шахты",
+        "genitive": "Шахтах",
+        "address": "г. Шахты, ул. переулок Красный Шахтёр, 54."
+    },
+    "shchelkova": {
+        "slug": "shchelkova",
+        "name": "Щелкова",
+        "genitive": "Щелково",
+        "address": "г. Щелково, ул. Центральная, 39\/7."
+    },
+    "shcherbinka": {
+        "slug": "shcherbinka",
+        "name": "Щербинка",
+        "genitive": "Щербинке",
+        "address": "г. Щербинка, ул. Высотная, 3."
+    },
+    "elista": {
+        "slug": "elista",
+        "name": "Элиста",
+        "genitive": "Элисте",
+        "address": "г. Элиста, ул. В.И. Ленина, 266А."
+    },
+    "nalchik": {
+        "slug": "nalchik",
+        "name": "Нальчик",
+        "genitive": "Нальчике",
+        "address": "г. Нальчик, ул. Ахохова, 94."
+    },
+    "naro-fominsk": {
+        "slug": "naro-fominsk",
+        "name": "Наро-Фоминск",
+        "genitive": "Наро-Фоминске",
+        "address": "г. Наро-Фоминск, ул. Генера Ефремова, 5."
+    },
+    "naryan-mar": {
+        "slug": "naryan-mar",
+        "name": "Нарьян-Мар",
+        "genitive": "Нарьян-Маре",
+        "address": "г. Нарьян-Мар, ул. Оленная, 8."
+    },
+    "nevinnomyssk": {
+        "slug": "nevinnomyssk",
+        "name": "Невинномысск",
+        "genitive": "Невинномысске",
+        "address": "г. Невинномысск, ул. Калинина, 52. "
+    },
+    "nefteyugansk": {
+        "slug": "nefteyugansk",
+        "name": "Нефтеюганск",
+        "genitive": "Нефтеюганске",
+        "address": "г. Нефтеюганск, ул. 6-й микрорайон, 1."
+    },
+    "nizhnevartovsk": {
+        "slug": "nizhnevartovsk",
+        "name": "Нижневартовск",
+        "genitive": "Нижневартовске",
+        "address": "г. Нижневартовск, ул. Нефтяников, 91."
+    },
+    "novodvinsk": {
+        "slug": "novodvinsk",
+        "name": "Новодвинск",
+        "genitive": "Новодвинске",
+        "address": "г. Новодвинск, ул. Мира, 10."
+    },
+    "novocherkassk": {
+        "slug": "novocherkassk",
+        "name": "Новочеркасск",
+        "genitive": "Новочеркасске",
+        "address": "г. Новочеркасск, ул. Пушкинская, 96."
+    },
+    "novyj-urengoj": {
+        "slug": "novyj-urengoj",
+        "name": "Новый Уренгой",
+        "genitive": "Новом Уренгое",
+        "address": "г. Новый Уренгой, ул. Таёжная, 27."
+    },
+    "nyagan": {
+        "slug": "nyagan",
+        "name": "Нягань",
+        "genitive": "Нягани",
+        "address": "г. Нягань, ул. Петра Великого, 1."
+    },
+    "krasnayapolyana": {
+        "slug": "krasnayapolyana",
+        "name": "Красная Поляна",
+        "genitive": "Красной Поляне",
+        "address": "п. Красная Поляна, ул. Аишхо, 41."
+    },
+    "krasnogorsk": {
+        "slug": "krasnogorsk",
+        "name": "Красногорск",
+        "genitive": "Красногорске",
+        "address": "г. Красногорск, ул. Школьная, 12. "
+    },
+    "krasnoufimsk": {
+        "slug": "krasnoufimsk",
+        "name": "Красноуфимск",
+        "genitive": "Красноуфимске",
+        "address": "г. Красноуфимск, ул. Интернациональная, 115."
+    },
+    "kropotkin": {
+        "slug": "kropotkin",
+        "name": "Кропоткин",
+        "genitive": "Кропоткине",
+        "address": "г. Кропоткин, ул. Железнодорожная, 60."
+    },
+    "krymsk": {
+        "slug": "krymsk",
+        "name": "Крымск",
+        "genitive": "Крымске",
+        "address": "г. Крымск, ул. Ставропольская, 54."
+    },
+    "kstovo": {
+        "slug": "kstovo",
+        "name": "Кстово",
+        "genitive": "Кстово",
+        "address": "г. Кстово, ул. Магистральная, 12."
+    },
+    "kuzneck": {
+        "slug": "kuzneck",
+        "name": "Кузнецк",
+        "genitive": "Кузнецке",
+        "address": "г. Кузнецк, ул. Московская, 60а."
+    },
+    "kumertau": {
+        "slug": "kumertau",
+        "name": "Кумертау",
+        "genitive": "Кумертау",
+        "address": "г. Кумертау, ул. Советская, 11. "
+    },
+    "kursk": {
+        "slug": "kursk",
+        "name": "Курск",
+        "genitive": "Курске",
+        "address": "г. Курск, ул. Ленина, 15."
+    },
+    "kyzyl": {
+        "slug": "kyzyl",
+        "name": "Кызыл",
+        "genitive": "Кызыле",
+        "address": "г. Кызыл, ул. Декабристов, 1. "
+    },
+    "yugorsk": {
+        "slug": "yugorsk",
+        "name": "Югорск",
+        "genitive": "Югорске",
+        "address": "г. Югорск, ул. Калинина, 46."
+    },
+    "yurga": {
+        "slug": "yurga",
+        "name": "Юрга",
+        "genitive": "Юрге",
+        "address": "г. Юрга, ул. Комсомольская, 4."
+    },
+    "yuzhnouralsk": {
+        "slug": "yuzhnouralsk",
+        "name": "Южноуральск",
+        "genitive": "Южноуральске",
+        "address": "г. Южноуральск, ул. Яблочкова, 21."
+    },
+    "yalta": {
+        "slug": "yalta",
+        "name": "Ялта",
+        "genitive": "Ялте",
+        "address": "г. Ялта, ул. Киевская, 14."
+    },
+    "reutov": {
+        "slug": "reutov",
+        "name": "Реутов",
+        "genitive": "Реутове",
+        "address": "г. Реутов, ул. Советская, 29."
+    },
+    "roslavl": {
+        "slug": "roslavl",
+        "name": "Рославль",
+        "genitive": "Рославле",
+        "address": "г. Рославль, ул. Розы Люксембург, 1."
+    },
+    "rossosh": {
+        "slug": "rossosh",
+        "name": "Россошь",
+        "genitive": "Россоши",
+        "address": "г. Россошь, ул. Льва Толстого, 28А."
+    },
+    "salekhard": {
+        "slug": "salekhard",
+        "name": "Салехард",
+        "genitive": "Салехарде",
+        "address": "г. Салехард, ул. Мира, 21."
+    },
+    "sarapul": {
+        "slug": "sarapul",
+        "name": "Сарапул",
+        "genitive": "Сарапуле",
+        "address": "г. Сарапул, ул. Азина, 32."
+    },
+    "sarov": {
+        "slug": "sarov",
+        "name": "Саров",
+        "genitive": "Сарове",
+        "address": "г. Саров, ул. Зернова, 35."
+    },
+    "severodvinsk": {
+        "slug": "severodvinsk",
+        "name": "Северодвинск",
+        "genitive": "Северодвинске",
+        "address": "г. Северодвинск, ул. Советская, 43."
+    },
+    "seversk": {
+        "slug": "seversk",
+        "name": "Северск",
+        "genitive": "Северске",
+        "address": "г. Северск, ул. Мира, 12."
+    },
+    "sergiev-posad": {
+        "slug": "sergiev-posad",
+        "name": "Сергиев Посад",
+        "genitive": "Сергиевом Посаде",
+        "address": "г. Сергиев Посад, ул. Новоугличское шоссе, 51А."
+    },
+    "troick": {
+        "slug": "troick",
+        "name": "Троицк (Челябинская область)",
+        "genitive": "Троицке",
+        "address": "г. Троицк, ул. Учительский переулок, 2."
+    },
+    "troitsk": {
+        "slug": "troitsk",
+        "name": "Троицк (Московская область)",
+        "genitive": "Троицке",
+        "address": ""
+    },
+    "tuapse": {
+        "slug": "tuapse",
+        "name": "Туапсе",
+        "genitive": "Туапсе",
+        "address": "г. Туапсе, ул. Ленина, 12."
+    },
+    "tujazy": {
+        "slug": "tujazy",
+        "name": "Туймазы",
+        "genitive": "Туймазах",
+        "address": "г. Туймазы, ул. Советская, 10."
+    },
+    "tula": {
+        "slug": "tula",
+        "name": "Тула",
+        "genitive": "Туле",
+        "address": "г. Тула, ул. Гоголевская, 69."
+    },
+    "ulyanovsk": {
+        "slug": "ulyanovsk",
+        "name": "Ульяновск",
+        "genitive": "Ульяновске",
+        "address": "г. Ульяновск, ул. Бебеля, 55."
+    },
+    "usinsk": {
+        "slug": "usinsk",
+        "name": "Усинск",
+        "genitive": "Усинске",
+        "address": "г. Усинск, ул. Лесная, 15."
+    },
+    "ussurijsk": {
+        "slug": "ussurijsk",
+        "name": "Уссурийск",
+        "genitive": "Уссурийске",
+        "address": "г. Уссурийск, ул. Пушкина, 29А."
+    },
+    "ust-kut": {
+        "slug": "ust-kut",
+        "name": "Усть-Кут",
+        "genitive": " Усть-Куте",
+        "address": "г. Усть-Кут, ул. Халтурина, 40."
+    },
+    "uhta": {
+        "slug": "uhta",
+        "name": "Ухта",
+        "genitive": "Ухте",
+        "address": "г. Ухта, ул. Оплеснина, 30."
+    },
+    "uchaly": {
+        "slug": "uchaly",
+        "name": "Учалы",
+        "genitive": "Учалах",
+        "address": "г. Учалы, ул. Горького, 4А."
+    },
+    "yakutsk": {
+        "slug": "yakutsk",
+        "name": "Якутск",
+        "genitive": "Якутске",
+        "address": "г. Якутск, ул. Петра Алексеева, 77."
+    },
+    "mahachkala": {
+        "slug": "mahachkala",
+        "name": "Махачкала",
+        "genitive": "Махачкале",
+        "address": "г. Махачкала, ул. Заманова, 1\/1."
+    },
+    "megion": {
+        "slug": "megion",
+        "name": "Мегион",
+        "genitive": "Мегионе",
+        "address": "г. Мегион, ул. Нефтяников, 25."
+    },
+    "miass": {
+        "slug": "miass",
+        "name": "Миасс",
+        "genitive": "Миассе",
+        "address": "г. Миасс, ул. Островского, 82."
+    },
+    "mineralnye-vody": {
+        "slug": "mineralnye-vody",
+        "name": "Минеральные воды",
+        "genitive": "Минеральных водах",
+        "address": "г. Минеральные воды, ул. Проспект 22-го Партсъезда, 15."
+    },
+    "michurinsk": {
+        "slug": "michurinsk",
+        "name": "Мичуринск",
+        "genitive": "Мичуринске",
+        "address": "г. Мичуринск, ул. Федеративная, 71."
+    },
+    "mozhajsk": {
+        "slug": "mozhajsk",
+        "name": "Можайск",
+        "genitive": "Можайске",
+        "address": "г. Можайск, ул. Фрунзе, 2."
+    },
+    "monchegorsk": {
+        "slug": "monchegorsk",
+        "name": "Мончегорск",
+        "genitive": "Мончегорске",
+        "address": "г. Мончегорск, ул. Комсомольская, 32. "
+    },
+    "murmansk": {
+        "slug": "murmansk",
+        "name": "Мурманск",
+        "genitive": "Мурманске",
+        "address": "г. Мурманск, ул. Флотский проезд, 5а."
+    },
+    "murom": {
+        "slug": "murom",
+        "name": "Муром",
+        "genitive": "Муроме",
+        "address": "г. Муром, ул. Коммунистическая, 15."
+    },
+    "nadym": {
+        "slug": "nadym",
+        "name": "Надым",
+        "genitive": "Надыме",
+        "address": "г. Надым, ул. Игоря Шаповалова, 9."
+    },
+    "kyshtym": {
+        "slug": "kyshtym",
+        "name": "Кыштым",
+        "genitive": "Кыштыме",
+        "address": "г. Кыштым, ул. Дзержинского, 6."
+    },
+    "labinsk": {
+        "slug": "labinsk",
+        "name": "Лабинск",
+        "genitive": "Лабинске",
+        "address": "г. Лабинск, ул. Красная, 5."
+    },
+    "lazarevskoe": {
+        "slug": "lazarevskoe",
+        "name": "Лазаревское",
+        "genitive": "Лазаревском",
+        "address": "г. Лазаревское, ул. Калараш, 14а."
+    },
+    "liski": {
+        "slug": "liski",
+        "name": "Лиски",
+        "genitive": "Лисках",
+        "address": "г. Лиски, ул. переулок Большой Красноармейской, 10."
+    },
+    "lobnya": {
+        "slug": "lobnya",
+        "name": "Лобня",
+        "genitive": "Лобне",
+        "address": "г. Лобня, ул. Победы, 3б."
+    },
+    "loo": {
+        "slug": "loo",
+        "name": "Лоо",
+        "genitive": "Лоо",
+        "address": "п. Лоо, ул. Разина, 8а. "
+    },
+    "luga": {
+        "slug": "luga",
+        "name": "Луга",
+        "genitive": "Луге",
+        "address": "г. Луга, ул. Железнодорожная, 6. "
+    },
+    "lysva": {
+        "slug": "lysva",
+        "name": "Лысьва",
+        "genitive": "Лысьве",
+        "address": "г. Лысьва, ул. Сергеева, 61."
+    },
+    "magadan": {
+        "slug": "magadan",
+        "name": "Магадан",
+        "genitive": "Магадане",
+        "address": "г. Магадан, ул. Карла Маркса, 25."
+    },
+    "maloyaroslavec": {
+        "slug": "maloyaroslavec",
+        "name": "Малоярославец",
+        "genitive": "Малоярославеце",
+        "address": "г. Малоярославец, ул. Герцена, 28."
+    },
+    "zelenograd": {
+        "slug": "zelenograd",
+        "name": "Зеленоград",
+        "genitive": "Зеленограде",
+        "address": "г. Зеленоград, ул. Заводская, 2."
+    },
+    "zlatoust": {
+        "slug": "zlatoust",
+        "name": "Златоуст",
+        "genitive": "Златоусте",
+        "address": "г. Златоуст, ул. Сыромолотова, 6."
+    },
+    "ivanteevka": {
+        "slug": "ivanteevka",
+        "name": "Ивантеевка",
+        "genitive": "Ивантеевке",
+        "address": "г. Ивантеевка, ул. Первомайская, 22\/1."
+    },
+    "izhevsk": {
+        "slug": "izhevsk",
+        "name": "Ижевск",
+        "genitive": "Ижевске",
+        "address": "г. Ижевск, ул. Коммунаров, 249."
+    },
+    "istra": {
+        "slug": "istra",
+        "name": "Истра",
+        "genitive": "Истре",
+        "address": "г. Истра, Ленина, 99."
+    },
+    "ishimbaj": {
+        "slug": "ishimbaj",
+        "name": "Ишимбай",
+        "genitive": "Ишимбае",
+        "address": "г. Ишимбай, ул. Советская, 89а."
+    },
+    "joshkar-ola": {
+        "slug": "joshkar-ola",
+        "name": "Йошкар-Ола",
+        "genitive": "Йошкар-Оле",
+        "address": "г. Йошкар-Ола, ул. Ленинский проспект, 51."
+    },
+    "kaliningrad": {
+        "slug": "kaliningrad",
+        "name": "Калининград",
+        "genitive": "Калининграде",
+        "address": "г. Калининград, ул. Подполковника Иванникова, 2."
+    },
+    "kaluga": {
+        "slug": "kaluga",
+        "name": "Калуга",
+        "genitive": "Калуге",
+        "address": "г. Калуга, ул. Московская, 19."
+    },
+    "kamensk-uralskij": {
+        "slug": "kamensk-uralskij",
+        "name": "Каменск-Уральский",
+        "genitive": "Каменске-Уральском",
+        "address": "г. Каменск-Уральский, ул. Ленина, 26."
+    },
+    "saratov": {
+        "slug": "saratov",
+        "name": "Саратов",
+        "genitive": "Саратове ",
+        "address": "г. Саратов, ул. Вольская улица, 73\/75."
+    },
+    "engels": {
+        "slug": "engels",
+        "name": "Энгельс",
+        "genitive": "Энгельсе ",
+        "address": "г. Энгельс, ул. площадь Ленина, 34."
+    },
+    "abdulino": {
+        "slug": "abdulino",
+        "name": "Абдулино",
+        "genitive": "Абдулине",
+        "address": "г. Абдулино, ул. Красноармейская 1\/1."
+    },
+    "abinsk": {
+        "slug": "abinsk",
+        "name": "Абинск",
+        "genitive": "Абинске",
+        "address": "г. Абинск, ул. Крымская, 14."
+    },
+    "agidel": {
+        "slug": "agidel",
+        "name": "Агидель",
+        "genitive": "Агидели",
+        "address": "г. Агидель, ул. Молодёжная, 4."
+    },
+    "agryz": {
+        "slug": "agryz",
+        "name": "Агрыз",
+        "genitive": "Агрызе",
+        "address": "г. Агрыз, ул. Ометова, 19."
+    },
+    "aznakaevo": {
+        "slug": "aznakaevo",
+        "name": "Азнакаево",
+        "genitive": "Азнакаево",
+        "address": "г. Азнакаево, ул. Гагарина, 5."
+    },
+    "aksai": {
+        "slug": "aksai",
+        "name": "Аксай",
+        "genitive": "Аксае",
+        "address": "г. Аксай, ул. Гагарина, 5."
+    },
+    "alatyr": {
+        "slug": "alatyr",
+        "name": "Алатырь",
+        "genitive": "Алатыре",
+        "address": "г. Алатырь, ул. Московская, 127. "
+    },
+    "alekseevka": {
+        "slug": "alekseevka",
+        "name": "Алексеевка",
+        "genitive": "Алексеевке",
+        "address": "г. Алексеевка, ул. Мостовая, 159."
+    },
+    "alexin": {
+        "slug": "alexin",
+        "name": "Алексин",
+        "genitive": "Алексине",
+        "address": "г. Алексин, ул. Мостовая, 159. "
+    },
+    "angarsk": {
+        "slug": "angarsk",
+        "name": "Ангарск",
+        "genitive": "Ангарске",
+        "address": "г. Ангарск, ул. Чайковского, 13."
+    },
+    "aprelevka": {
+        "slug": "aprelevka",
+        "name": "Апрелевка",
+        "genitive": "Апрелевке",
+        "address": "г. Апрелевка, ул. Дубки, 15. "
+    },
+    "argun": {
+        "slug": "argun",
+        "name": "Аргун",
+        "genitive": "Аргуне",
+        "address": "г. Аргун, ул. Шоссейная, 75."
+    },
+    "artem": {
+        "slug": "artem",
+        "name": "Артём",
+        "genitive": "Артёме",
+        "address": "г. Артём, ул. Кирова, 9\/3."
+    },
+    "artemovsky": {
+        "slug": "artemovsky",
+        "name": "Артёмовский",
+        "genitive": "Артёмовском ",
+        "address": "г. Артёмовский, ул. Ленина, 4."
+    },
+    "asbestos": {
+        "slug": "asbestos",
+        "name": "Асбест",
+        "genitive": "Асбесте",
+        "address": "г. Асбест, ул. 8 Марта, 6."
+    },
+    "akhtubinsk": {
+        "slug": "akhtubinsk",
+        "name": "Ахтубинск",
+        "genitive": "Ахтубинске",
+        "address": "г. Ахтубинск, ул. Волгоградская, 71."
+    },
+    "achinsk": {
+        "slug": "achinsk",
+        "name": "Ачинск",
+        "genitive": "Ачинске",
+        "address": "г. Ачинск, ул. 3-й микрорайон, 1."
+    },
+    "asha": {
+        "slug": "asha",
+        "name": "Аша",
+        "genitive": "Аше",
+        "address": "г. Аша, ул. Ленина, 14."
+    },
+    "bavly": {
+        "slug": "bavly",
+        "name": "Бавлы",
+        "genitive": "Бавлах",
+        "address": "г. Бавлы, ул. Хади Такташа, 10."
+    },
+    "baksan": {
+        "slug": "baksan",
+        "name": "Баксан",
+        "genitive": "Баксане",
+        "address": "г. Баксан, ул. проспект Ленина, 44. "
+    },
+    "balabanovo": {
+        "slug": "balabanovo",
+        "name": "Балабаново",
+        "genitive": "Балабаново",
+        "address": "г. Балабаново, ул. Боровская улица, 1."
+    },
+    "balakovo": {
+        "slug": "balakovo",
+        "name": "Балаково",
+        "genitive": "Балаково",
+        "address": "г. Балаково, ул. Комарова, 133А."
+    },
+    "balakhna": {
+        "slug": "balakhna",
+        "name": "Балахна",
+        "genitive": "Балахне",
+        "address": "г. Балахна, ул. Энгельса, 46. "
+    },
+    "baltiysk": {
+        "slug": "baltiysk",
+        "name": "Балтийск",
+        "genitive": "Балтийске",
+        "address": "г. Балтийск, ул. Водолазный переулок, 4."
+    },
+    "barnaul": {
+        "slug": "barnaul",
+        "name": "Барнаул",
+        "genitive": "Барнауле",
+        "address": "г. Барнаул, ул. Партизанская, 105."
+    },
+    "bakhchisarai": {
+        "slug": "bakhchisarai",
+        "name": "Бахчисарай",
+        "genitive": "Бахчисарае",
+        "address": "г. Бахчисарай, ул. Фрунзе, 34Б."
+    },
+    "bezhetsk": {
+        "slug": "bezhetsk",
+        "name": "Бежецк",
+        "genitive": "Бежецке",
+        "address": "г. Бежецк, ул. Рыбинская, 16\/19."
+    },
+    "belovo": {
+        "slug": "belovo",
+        "name": "Белово",
+        "genitive": "Белове",
+        "address": "г. Белово, ул. Октябрьская, 35."
+    },
+    "belogorsk": {
+        "slug": "belogorsk",
+        "name": "Белогорск",
+        "genitive": "Белогорске",
+        "address": "г. Белогорск, ул. Кирова, 121. "
+    },
+    "belokurikha": {
+        "slug": "belokurikha",
+        "name": "Белокуриха",
+        "genitive": "Белокурихе",
+        "address": "г. Белокуриха, ул. Партизанская, 6."
+    },
+    "beloozersky": {
+        "slug": "beloozersky",
+        "name": "Белоозёрский",
+        "genitive": "Белоозёрском ",
+        "address": "г. Белоозёрский, ул. Молодёжная, 16В. "
+    },
+    "berdsk": {
+        "slug": "berdsk",
+        "name": "Бердск",
+        "genitive": "Бердске",
+        "address": "г. Бердск, ул. Островского, 55."
+    },
+    "berezovsky": {
+        "slug": "berezovsky",
+        "name": "Берёзовский",
+        "genitive": "Берёзовском ",
+        "address": "г. Берёзовский, ул. Ленина, 23."
+    },
+    "beslan": {
+        "slug": "beslan",
+        "name": "Беслан",
+        "genitive": "Беслане",
+        "address": "г. Беслан, ул. Мира, 10Б."
+    },
+    "birobidzhan": {
+        "slug": "birobidzhan",
+        "name": "Биробиджан",
+        "genitive": "Биробиджане",
+        "address": "г. Биробиджан, ул. Шолом-Алейхема, 78."
+    },
+    "birsk": {
+        "slug": "birsk",
+        "name": "Бирск",
+        "genitive": "Бирске",
+        "address": "г. Бирск, ул. Чеверёва, 34."
+    },
+    "blagodarniy": {
+        "slug": "blagodarniy",
+        "name": "Благодарный",
+        "genitive": "Благодарном ",
+        "address": "г. Благодарный, ул. Красноармейская, 60."
+    },
+    "bobrov": {
+        "slug": "bobrov",
+        "name": "Бобров",
+        "genitive": "Боброве",
+        "address": "г. Бобров, ул. имени Кирова, 51."
+    },
+    "bogdanovich": {
+        "slug": "bogdanovich",
+        "name": "Богданович",
+        "genitive": "Богдановиче",
+        "address": "г. Богданович, ул. Мира, 5. "
+    },
+    "bogoroditsk": {
+        "slug": "bogoroditsk",
+        "name": "Богородицк",
+        "genitive": "Богородицке",
+        "address": "г. Богородицк, ул. Урицкого, 46."
+    },
+    "bogorodsk": {
+        "slug": "bogorodsk",
+        "name": "Богородск",
+        "genitive": "Богородске",
+        "address": "г. Богородск, ул. Ленина, 250. "
+    },
+    "bologoe": {
+        "slug": "bologoe",
+        "name": "Бологое",
+        "genitive": "Бологом",
+        "address": "г. Бологое, ул. Кирова, 18. "
+    },
+    "bolshoy-kamen": {
+        "slug": "bolshoy-kamen",
+        "name": "Большой Камень",
+        "genitive": "Большом Камне ",
+        "address": "г. Большой Камень, ул. Адмирала Макарова, 2. "
+    },
+    "bor": {
+        "slug": "bor",
+        "name": "Бор",
+        "genitive": "Боре",
+        "address": "г. Бор, ул. Крупской, 24."
+    },
+    "borzya": {
+        "slug": "borzya",
+        "name": "Борзя",
+        "genitive": "Борзе",
+        "address": "г. Борзя, ул. Карла Маркса, 96."
+    },
+    "bronnitsy": {
+        "slug": "bronnitsy",
+        "name": "Бронницы",
+        "genitive": "Бронницах ",
+        "address": "г. Бронницы, ул. Советская, 67. "
+    },
+    "bryansk": {
+        "slug": "bryansk",
+        "name": "Брянск",
+        "genitive": "Брянске",
+        "address": "г. Брянск, ул. Костычева, 3."
+    },
+    "buguruslan": {
+        "slug": "buguruslan",
+        "name": "Бугуруслан",
+        "genitive": "Бугуруслане",
+        "address": "г. Бугуруслан, ул. Коммунистическая, 10."
+    },
+    "buy": {
+        "slug": "buy",
+        "name": "Буй",
+        "genitive": "Буе",
+        "address": "г. Буй, ул. Октябрьской Революции, 27."
+    },
+    "buynaksk": {
+        "slug": "buynaksk",
+        "name": "Буйнакск",
+        "genitive": "Буйнакске",
+        "address": "г. Буйнакск, ул. Чкалова, 10."
+    },
+    "buturlinovka": {
+        "slug": "buturlinovka",
+        "name": "Бутурлиновка",
+        "genitive": "Бутурлиновке",
+        "address": "г. Бутурлиновка, ул. Блинова, 26."
+    },
+    "valuiki": {
+        "slug": "valuiki",
+        "name": "Валуйки",
+        "genitive": "Валуйках",
+        "address": "г. Валуйки, ул. 1 Мая, 24."
+    },
+    "veliky ustyug": {
+        "slug": "veliky ustyug",
+        "name": "Великий Устюг",
+        "genitive": "Великом Устюге",
+        "address": "г. Великий Устюг, ул. Виноградова, 62."
+    },
+    "vereshchagino": {
+        "slug": "vereshchagino",
+        "name": "Верещагино",
+        "genitive": "Верещагино",
+        "address": "г. Верещагино, ул. Карла Маркса, 58."
+    },
+    "verhniy-ufaley": {
+        "slug": "verhniy-ufaley",
+        "name": "Верхний Уфалей",
+        "genitive": "Верхнем Уфалее ",
+        "address": "г. Верхний Уфалей, ул. Бабикова, 50."
+    },
+    "verhnjaja-pyshma": {
+        "slug": "verhnjaja-pyshma",
+        "name": "Верхняя Пышма",
+        "genitive": "Верхней Пышме ",
+        "address": "г. Верхняя Пышма, Кривоусова, 18Д. "
+    },
+    "verhnyaya-salda": {
+        "slug": "verhnyaya-salda",
+        "name": "Верхняя Салда",
+        "genitive": "Верхней Салде",
+        "address": "г. Верхняя Салда, ул. Карла Маркса, 7."
+    },
+    "vichuga": {
+        "slug": "vichuga",
+        "name": "Вичуга",
+        "genitive": "Вичуге",
+        "address": "г. Вичуга, ул. Покровского, 17."
+    },
+    "volzhsk": {
+        "slug": "volzhsk",
+        "name": "Волжск",
+        "genitive": "Волжске",
+        "address": "г. Волжск, ул. Орлова, 17."
+    },
+    "volzhskiy": {
+        "slug": "volzhskiy",
+        "name": "Волжский",
+        "genitive": "Волжском ",
+        "address": "г. Волжский, ул. проспект имени Ленина, 67."
+    },
+    "volkhov": {
+        "slug": "volkhov",
+        "name": "Волхов",
+        "genitive": "Волхове",
+        "address": "г. Волхов, ул. Молодёжная, 18. "
+    },
+    "volsk": {
+        "slug": "volsk",
+        "name": "Вольск",
+        "genitive": "Вольске",
+        "address": "г. Вольск, ул. Коммунистическая, 71."
+    },
+    "votkinsk": {
+        "slug": "votkinsk",
+        "name": "Воткинск",
+        "genitive": "Воткинске",
+        "address": "г. Воткинск, ул. 1 Мая, 89."
+    },
+    "vsevolozhsk": {
+        "slug": "vsevolozhsk",
+        "name": "Всеволожск",
+        "genitive": "Всеволожске",
+        "address": "г. Всеволожск, ул. Октябрьский проспект, 77."
+    },
+    "vyksa": {
+        "slug": "vyksa",
+        "name": "Выкса",
+        "genitive": "Выксе",
+        "address": "г. Выкса, ул. Красные Зори, 29."
+    },
+    "vyazniki": {
+        "slug": "vyazniki",
+        "name": "Вязники",
+        "genitive": "Вязниках",
+        "address": "г. Вязники, ул. Советская улица, 39\/1."
+    },
+    "vyatskie-polyani": {
+        "slug": "vyatskie-polyani",
+        "name": "Вятские Поляны",
+        "genitive": "Вятских Полянах",
+        "address": "г. Вятские Поляны, ул. Ленина, 162\/1."
+    },
+    "gagarin": {
+        "slug": "gagarin",
+        "name": "Гагарин",
+        "genitive": "Гагарине",
+        "address": "г. Гагарин, ул. Строителей, 48."
+    },
+    "gay": {
+        "slug": "gay",
+        "name": "Гай",
+        "genitive": "Гае",
+        "address": "г. Гай, ул. Орская, 109. "
+    },
+    "gorno-altaysk": {
+        "slug": "gorno-altaysk",
+        "name": "Горно-Алтайск",
+        "genitive": "Горно-Алтайске",
+        "address": "г. Горно-Алтайск, ул. Проточная, 10\/1к2. "
+    },
+    "gryazi": {
+        "slug": "gryazi",
+        "name": "Грязи",
+        "genitive": "Грязях",
+        "address": "г. Грязи, ул. Правды, 81. "
+    },
+    "gubkin": {
+        "slug": "gubkin",
+        "name": "Губкин",
+        "genitive": "Губкине",
+        "address": "г. Губкин, ул. Фрунзе, 2."
+    },
+    "gulkevichi": {
+        "slug": "gulkevichi",
+        "name": "Гулькевичи",
+        "genitive": "Гулькевичах",
+        "address": "г. Гулькевичи, ул. Ленинградская, 19."
+    },
+    "gusev": {
+        "slug": "gusev",
+        "name": "Гусев",
+        "genitive": "Гусеве",
+        "address": "г. Гусев, ул. Московская, 9."
+    },
+    "gus-hrustalniy": {
+        "slug": "gus-hrustalniy",
+        "name": "Гусь-Хрустальный",
+        "genitive": "Гусь-Хрустальном ",
+        "address": "г. Гусь-Хрустальный, ул. Интернациональная, 7."
+    },
+    "dagestanskie-ogni": {
+        "slug": "dagestanskie-ogni",
+        "name": "Дагестанские Огни",
+        "genitive": "Дагестанских Огнях",
+        "address": "г. Дагестанские Огни, ул. проспект Калинина, 29В."
+    },
+    "dedovsk": {
+        "slug": "dedovsk",
+        "name": "Дедовск",
+        "genitive": "Дедовске",
+        "address": "г. Дедовск, ул. Больничная, 4."
+    },
+    "derbent": {
+        "slug": "derbent",
+        "name": "Дербент",
+        "genitive": "Дербенте",
+        "address": "г. Дербент, ул. Буйнакского, 68\/2."
+    },
+    "dzerzhinsky": {
+        "slug": "dzerzhinsky",
+        "name": "Дзержинский",
+        "genitive": "Дзержинском ",
+        "address": "г. Дзержинский, ул. Лесная, 17."
+    },
+    "dolgoprudnyi": {
+        "slug": "dolgoprudnyi",
+        "name": "Долгопрудный",
+        "genitive": "Долгопрудном ",
+        "address": "г. Долгопрудный, ул. Новый бульвар, 18."
+    },
+    "donetsk": {
+        "slug": "donetsk",
+        "name": "Донецк ( Ростовск. Обл.)",
+        "genitive": "Донецке",
+        "address": "г. Донецк ( Ростовская. Обл.), ул. Максима Горького, 70Д. "
+    },
+    "donskoy": {
+        "slug": "donskoy",
+        "name": "Донской",
+        "genitive": "Донском",
+        "address": "г. Донской, ул. Октябрьская, 64."
+    },
+    "eysk": {
+        "slug": "eysk",
+        "name": "Ейск",
+        "genitive": "Ейске",
+        "address": "г. Ейск, ул. Красная, 53А."
+    },
+    "efremov": {
+        "slug": "efremov",
+        "name": "Ефремов",
+        "genitive": "Ефремове",
+        "address": "г. Ефремов, ул. Горького, 32."
+    },
+    "zheleznogorsk": {
+        "slug": "zheleznogorsk",
+        "name": "Железногорск",
+        "genitive": "Железногорске",
+        "address": "г. Железногорск, ул. Гагарина, 2."
+    },
+    "zhigulevsk": {
+        "slug": "zhigulevsk",
+        "name": "Жигулёвск",
+        "genitive": "Жигулёвске",
+        "address": "г. Жигулёвск, ул. Мира, 10."
+    },
+    "zhukovsky": {
+        "slug": "zhukovsky",
+        "name": "Жуковский",
+        "genitive": "Жуковском",
+        "address": "г. Жуковский, ул. Энергетическая, 7."
+    },
+    "zarechny": {
+        "slug": "zarechny",
+        "name": "Заречный",
+        "genitive": "Заречном",
+        "address": "г. Заречный, ул. Таховская, 2. "
+    },
+    "zelenogorsk": {
+        "slug": "zelenogorsk",
+        "name": "Зеленогорск",
+        "genitive": "Зеленогорске",
+        "address": "г. Зеленогорск, ул. Бортникова, 8. "
+    },
+    "zelenodolsk": {
+        "slug": "zelenodolsk",
+        "name": "Зеленодольск",
+        "genitive": "Зеленодольске",
+        "address": "г. Зеленодольск, ул. Татарстан, 8."
+    },
+    "zernograd": {
+        "slug": "zernograd",
+        "name": "Зерноград",
+        "genitive": "Зернограде",
+        "address": "г. Зерноград, ул. Колодина, 19."
+    },
+    "znamensk": {
+        "slug": "znamensk",
+        "name": "Знаменск",
+        "genitive": "Знаменске",
+        "address": "г. Знаменск, ул. Ленина, 15."
+    },
+    "ivanovo": {
+        "slug": "ivanovo",
+        "name": "Иваново",
+        "genitive": "Иваново",
+        "address": "г. Иваново, ул. Шереметевский проспект, 33. "
+    },
+    "irbit": {
+        "slug": "irbit",
+        "name": "Ирбит",
+        "genitive": "Ирбите",
+        "address": "г. Ирбит, ул. Советская, 58. "
+    },
+    "ishim": {
+        "slug": "ishim",
+        "name": "Ишим",
+        "genitive": "Ишиме",
+        "address": "г. Ишим, ул. Советская, 26."
+    },
+    "kazan": {
+        "slug": "kazan",
+        "name": "Казань",
+        "genitive": "Казани",
+        "address": "г. Казань, ул. Мулланура Вахитова, 5к2. "
+    },
+    "kalach-on-don": {
+        "slug": "kalach-on-don",
+        "name": "Калач-на-Дону",
+        "genitive": "Калаче-на-Дону",
+        "address": "г. Калач-на-Дону, ул. Чекмарева, 49."
+    },
+    "kamenka": {
+        "slug": "kamenka",
+        "name": "Каменка",
+        "genitive": "Каменке",
+        "address": "г. Каменка, ул. Советская, 56."
+    },
+    "kamyshin": {
+        "slug": "kamyshin",
+        "name": "Камышин",
+        "genitive": "Камышине",
+        "address": "г. Камышин, ул. Пролетарская, 103. "
+    },
+    "karabulak": {
+        "slug": "karabulak",
+        "name": "Карабулак",
+        "genitive": "Карабулаке",
+        "address": "г. Карабулак, ул. Нефтяная, 10."
+    },
+    "kaspiysk": {
+        "slug": "kaspiysk",
+        "name": "Каспийск",
+        "genitive": "Каспийске",
+        "address": "г. Каспийск, ул. Амет-Хана Султана, 11. "
+    },
+    "kimry": {
+        "slug": "kimry",
+        "name": "Кимры",
+        "genitive": "Кимрах",
+        "address": "г. Кимры, ул. Урицкого, 67."
+    },
+    "kingisepp": {
+        "slug": "kingisepp",
+        "name": "Кингисепп",
+        "genitive": "Кингисеппе",
+        "address": "г. Кингисепп, ул. проспект Карла Маркса, 38. "
+    },
+    "kinel": {
+        "slug": "kinel",
+        "name": "Кинель",
+        "genitive": "Кинеле",
+        "address": "г. Кинель, ул.27 Партсъезда, 1."
+    },
+    "kineshma": {
+        "slug": "kineshma",
+        "name": "Кинешма",
+        "genitive": "Кинешме",
+        "address": "г. Кинешма, ул. имени Ленина, 22\/9. "
+    },
+    "kirishi": {
+        "slug": "kirishi",
+        "name": "Кириши",
+        "genitive": "Киришах",
+        "address": "г. Кириши, ул. проспект Героев, 18. "
+    },
+    "kolomna": {
+        "slug": "kolomna",
+        "name": "Коломна",
+        "genitive": "Коломне",
+        "address": "г. Коломна, ул. проспект Кирова, 23. "
+    },
+    "kolchuginо": {
+        "slug": "kolchuginо",
+        "name": "Кольчугино",
+        "genitive": "Кольчугино",
+        "address": "г. Кольчугино, ул. Дружбы, 30."
+    },
+    "korenovsk": {
+        "slug": "korenovsk",
+        "name": "Кореновск",
+        "genitive": "Кореновске",
+        "address": "г. Кореновск, ул. Бувальцева, 41Д. "
+    },
+    "kotelniki": {
+        "slug": "kotelniki",
+        "name": "Котельники",
+        "genitive": "Котельниках ",
+        "address": "г. Котельники, ул. Кузьминская, 5. "
+    },
+    "kostroma": {
+        "slug": "kostroma",
+        "name": "Кострома",
+        "genitive": "Костроме",
+        "address": "г. Кострома, ул. проспект Мира, 71."
+    },
+    "kohma": {
+        "slug": "kohma",
+        "name": "Кохма",
+        "genitive": "Кохме",
+        "address": "г. Кохма, ул. Кочетовой, 34. "
+    },
+    "krasnoarmeysk": {
+        "slug": "krasnoarmeysk",
+        "name": "Красноармейск ( Московская область)",
+        "genitive": "Красноармейске",
+        "address": "г. Красноармейск ( Московская область), ул. микрорайон Северный, 32. "
+    },
+    "krasnodar": {
+        "slug": "krasnodar",
+        "name": "Краснодар",
+        "genitive": "Краснодаре",
+        "address": "г. Краснодар, ул. Тургенева, 138\/7."
+    },
+    "krasnoznamensk": {
+        "slug": "krasnoznamensk",
+        "name": "Краснознаменск ( Московская область)",
+        "genitive": "Краснознаменске",
+        "address": "г. Краснознаменск ( Московская область), ул. Молодёжная, 5. "
+    },
+    "krasnoturinsk": {
+        "slug": "krasnoturinsk",
+        "name": "Краснотурьинск",
+        "genitive": "Краснотурьинске",
+        "address": "г. Краснотурьинск, ул. Октябрьская, 20."
+    },
+    "krasnoyarsk": {
+        "slug": "krasnoyarsk",
+        "name": "Красноярск",
+        "genitive": "Красноярске",
+        "address": "г. Красноярск, ул. Мужества, 18."
+    },
+    "krasny-sulin": {
+        "slug": "krasny-sulin",
+        "name": "Красный Сулин",
+        "genitive": "Красном Сулине",
+        "address": "г. Красный Сулин, ул. Фурманова, 5."
+    },
+    "kudrovo": {
+        "slug": "kudrovo",
+        "name": "Кудрово",
+        "genitive": "Кудрово ",
+        "address": "г. Кудрово, ул. Европейский проспект, 13к5."
+    },
+    "kudymkar": {
+        "slug": "kudymkar",
+        "name": "Кудымкар",
+        "genitive": "Кудымкаре",
+        "address": "г. Кудымкар, ул. Энтузиастов, 2."
+    },
+    "kuibyshev": {
+        "slug": "kuibyshev",
+        "name": "Куйбышев",
+        "genitive": "Куйбышеве",
+        "address": "г. Куйбышев, ул. 7-й квартал, 3."
+    },
+    "kungur": {
+        "slug": "kungur",
+        "name": "Кунгур",
+        "genitive": "Кунгуре",
+        "address": "г. Кунгур, ул. Бачурина, 13А. "
+    },
+    "kurgan": {
+        "slug": "kurgan",
+        "name": "Курган",
+        "genitive": "Кургане",
+        "address": "г. Курган, ул. Коли Мяготина, 77. "
+    },
+    "kurganinsk": {
+        "slug": "kurganinsk",
+        "name": "Курганинск",
+        "genitive": "Курганинске",
+        "address": "г. Курганинск, ул. Комсомольская улица, 24\/3Г."
+    },
+    "kurovskoe": {
+        "slug": "kurovskoe",
+        "name": "Куровское",
+        "genitive": "Куровском",
+        "address": "г. Куровское, ул. Куйбышева, 1\/9."
+    },
+    "kurtamysh": {
+        "slug": "kurtamysh",
+        "name": "Куртамыш",
+        "genitive": "Куртамыше",
+        "address": "г. Куртамыш, ул. XXII Партсъезда, 11."
+    },
+    "kushva": {
+        "slug": "kushva",
+        "name": "Кушва",
+        "genitive": "Кушве",
+        "address": "г. Кушва, ул. Фадеевых, 22."
+    },
+    "leninogorsk": {
+        "slug": "leninogorsk",
+        "name": "Лениногорск",
+        "genitive": "Лениногорске",
+        "address": "г. Лениногорск, ул. Куйбышева, 48. "
+    },
+    "lermontov": {
+        "slug": "lermontov",
+        "name": "Лермонтов",
+        "genitive": "Лермонтове",
+        "address": "г. Лермонтов, Заводской переулок, 9."
+    },
+    "lesnoy": {
+        "slug": "lesnoy",
+        "name": "Лесной",
+        "genitive": "Лесном ",
+        "address": "г. Лесной, ул. Ленина, 117."
+    },
+    "lesozavodsk": {
+        "slug": "lesozavodsk",
+        "name": "Лесозаводск",
+        "genitive": "Лесозаводске",
+        "address": "г. Лесозаводск, ул. Урицкого, 7."
+    },
+    "livni": {
+        "slug": "livni",
+        "name": "Ливны",
+        "genitive": "Ливнах",
+        "address": "г. Ливны, ул. Октябрьская, 7."
+    },
+    "lipetsk": {
+        "slug": "lipetsk",
+        "name": "Липецк",
+        "genitive": "Липецке",
+        "address": "г. Липецк, ул. Космонавтов, 43."
+    },
+    "lukhovitsy": {
+        "slug": "lukhovitsy",
+        "name": "Луховицы",
+        "genitive": "Луховицах",
+        "address": "г. Луховицы, ул. Пушкина, 143."
+    },
+    "lytkarino": {
+        "slug": "lytkarino",
+        "name": "Лыткарино",
+        "genitive": "Лыткарино ",
+        "address": "г. Лыткарино, ул. Первомайская, 5.\r\n"
+    },
+    "lyubertsy": {
+        "slug": "lyubertsy",
+        "name": "Люберцы",
+        "genitive": "Люберцах ",
+        "address": "г. Люберцы, ул. Комсомольский проспект, 11."
+    },
+    "ludinovo": {
+        "slug": "ludinovo",
+        "name": "Людиново",
+        "genitive": "Людиново ",
+        "address": "г. Людиново, ул. Кропоткина, 9. "
+    },
+    "magas": {
+        "slug": "magas",
+        "name": "Магас",
+        "genitive": "Магасе",
+        "address": "г. Магас, ул. Мочко Базоркина, 10. "
+    },
+    "maykop": {
+        "slug": "maykop",
+        "name": "Майкоп",
+        "genitive": "Майкопе",
+        "address": "г. Майкоп, ул. Хакурате, 329."
+    },
+    "magnitogorsk": {
+        "slug": "magnitogorsk",
+        "name": "Магнитогорск",
+        "genitive": "Магнитогорске ",
+        "address": "г. Магнитогорск, ул. Гагарина, 57. "
+    },
+    "mayskiy": {
+        "slug": "mayskiy",
+        "name": "Майский",
+        "genitive": "Майском ",
+        "address": "г. Майский, ул. Ленина, 37."
+    },
+    "malgobek": {
+        "slug": "malgobek",
+        "name": "Малгобек",
+        "genitive": "Малгобеке",
+        "address": "г. Малгобек, ул. Осканова, 10."
+    },
+    "marx": {
+        "slug": "marx",
+        "name": "Маркс",
+        "genitive": "Марксе",
+        "address": "г. Маркс, ул. проспект Ленина, 76А."
+    },
+    "mezhdurechensk": {
+        "slug": "mezhdurechensk",
+        "name": "Междуреченск",
+        "genitive": "Междуреченске ",
+        "address": "г. Междуреченск, ул. Вокзальна, 50."
+    },
+    "mikhailovka": {
+        "slug": "mikhailovka",
+        "name": "Михайловка",
+        "genitive": "Михайловке",
+        "address": "г. Михайловка, ул. 2-я Краснознаменская, 14."
+    },
+    "morshansk": {
+        "slug": "morshansk",
+        "name": "Моршанск",
+        "genitive": "Моршанске",
+        "address": "г. Моршанск, ул. Лотикова, 87."
+    },
+    "murino": {
+        "slug": "murino",
+        "name": "Мурино",
+        "genitive": "Мурино ",
+        "address": "г. Мурино, ул. бульвар Менделеева, 7к2. "
+    },
+    "mytishchi": {
+        "slug": "mytishchi",
+        "name": "Мытищи",
+        "genitive": "Мытищах",
+        "address": "г. Мытищи, ул. Юбилейная, 3к1."
+    },
+    "naberezhnye-chelny": {
+        "slug": "naberezhnye-chelny",
+        "name": "Набережные Челны",
+        "genitive": "Набережные Челнах  ",
+        "address": "г. Набережные Челны, ул. Шамиля Усманова, 108."
+    },
+    "nazran": {
+        "slug": "nazran",
+        "name": "Назрань",
+        "genitive": "Назрани",
+        "address": "г. Назрань, ул.  Картоева, 154Б."
+    },
+    "nahodka": {
+        "slug": "nahodka",
+        "name": "Находка",
+        "genitive": "Находке",
+        "address": "г. Находка, ул. Озёрный бульвар, 4."
+    },
+    "nerekhta": {
+        "slug": "nerekhta",
+        "name": "Нерехта",
+        "genitive": "Нерехте",
+        "address": "г. Нерехта, ул. Карла Либкнехта, 13. "
+    },
+    "neftekamsk": {
+        "slug": "neftekamsk",
+        "name": "Нефтекамск",
+        "genitive": "Нефтекамске",
+        "address": "г. Нефтекамск, ул. Комсомольский проспект, 41. "
+    },
+    "neftekumsk": {
+        "slug": "neftekumsk",
+        "name": "Нефтекумск",
+        "genitive": "Нефтекумске ",
+        "address": "г. Нефтекумск, ул. 2-й микрорайон, 19.\r\n"
+    },
+    "nizhnekamsk": {
+        "slug": "nizhnekamsk",
+        "name": "Нижнекамск",
+        "genitive": "Нижнекамске",
+        "address": "г. Нижнекамск, ул. проспект Вахитова, 14."
+    },
+    "nizhny-lomov": {
+        "slug": "nizhny-lomov",
+        "name": "Нижний Ломов",
+        "genitive": "Нижнем Ломове ",
+        "address": "г. Нижний Ломов, ул. Урицкого, 64. "
+    },
+    "nizhniy-novgorod": {
+        "slug": "nizhniy-novgorod",
+        "name": "Нижний Новгород",
+        "genitive": "Нижнем Новгороде",
+        "address": "г. Нижний Новгород, ул. Бекетова, 49А. "
+    },
+    "nizhny-tagil": {
+        "slug": "nizhny-tagil",
+        "name": "Нижний Тагил",
+        "genitive": "Нижнем Тагиле",
+        "address": "г. Нижний Тагил, ул. Горошникова, 70.  "
+    },
+    "novoaleksandrovsk": {
+        "slug": "novoaleksandrovsk",
+        "name": "Новоалександровск",
+        "genitive": "Новоалександровске",
+        "address": "г. Новоалександровск, ул. Пушкина, 133."
+    },
+    "novovoronezh": {
+        "slug": "novovoronezh",
+        "name": "Нововоронеж",
+        "genitive": "Нововоронеже",
+        "address": "г. Нововоронеж, ул. Набережная, 36."
+    },
+    "novozybkov": {
+        "slug": "novozybkov",
+        "name": "Новозыбков",
+        "genitive": "Новозыбкове ",
+        "address": "г. Новозыбков, ул. Литейная, 40В."
+    },
+    "novokubansk": {
+        "slug": "novokubansk",
+        "name": "Новокубанск",
+        "genitive": "Новокубанске",
+        "address": "г. Новокубанск, ул. Ленина, 28. "
+    },
+    "novokuibyshevsk": {
+        "slug": "novokuibyshevsk",
+        "name": "Новокуйбышевск",
+        "genitive": "Новокуйбышевске",
+        "address": "г. Новокуйбышевск, ул. Молодёжная, 3."
+    },
+    "novomoskovsk": {
+        "slug": "novomoskovsk",
+        "name": "Новомосковск",
+        "genitive": "Новомосковске ",
+        "address": "г. Новомосковск, ул. Комсомольская, 1."
+    },
+    "novorossiysk": {
+        "slug": "novorossiysk",
+        "name": "Новороссийск",
+        "genitive": "Новороссийске",
+        "address": "г. Новороссийск, ул. Интернациональная, 2."
+    },
+    "novosibirsk": {
+        "slug": "novosibirsk",
+        "name": "Новосибирск",
+        "genitive": "Новосибирске ",
+        "address": "г. Новосибирск, ул. Кирова, 317."
+    },
+    "novotroitsk": {
+        "slug": "novotroitsk",
+        "name": "Новотроицк",
+        "genitive": "Новотроицке",
+        "address": "г. Новотроицк, ул. Мира, 7. "
+    },
+    "novouralsk": {
+        "slug": "novouralsk",
+        "name": "Новоуральск",
+        "genitive": "Новоуральске",
+        "address": "г. Новоуральск, ул. Автозаводская, 2."
+    },
+    "novocheboksarsk": {
+        "slug": "novocheboksarsk",
+        "name": "Новочебоксарск",
+        "genitive": "Новочебоксарске",
+        "address": "г. Новочебоксарск, ул. Коммунистическая, 18."
+    },
+    "novoshakhtinsk": {
+        "slug": "novoshakhtinsk",
+        "name": "Новошахтинск",
+        "genitive": "Новошахтинске",
+        "address": "г. Новошахтинск, ул. проспект Ленина, 36."
+    },
+    "nurlat": {
+        "slug": "nurlat",
+        "name": "Нурлат",
+        "genitive": "Нурлате",
+        "address": "г. Нурлат, ул. Гагарина, 14."
+    },
+    "ozeri": {
+        "slug": "ozeri",
+        "name": "Озёры",
+        "genitive": "Озёрах",
+        "address": "г. Озёры, ул. Ленина, 54."
+    },
+    "omsk": {
+        "slug": "omsk",
+        "name": "Омск",
+        "genitive": "Омске ",
+        "address": "г. Омск, ул. Серова, 24."
+    },
+    "orenburg": {
+        "slug": "orenburg",
+        "name": "Оренбург",
+        "genitive": "Оренбурге",
+        "address": "г. Оренбург, ул. проспект Дзержинского, 21."
+    },
+    "osinniki": {
+        "slug": "osinniki",
+        "name": "Осинники",
+        "genitive": "Осинниках ",
+        "address": "г. Осинники, ул. Гагарина, 9. "
+    },
+    "podolsk": {
+        "slug": "podolsk",
+        "name": "Подольск",
+        "genitive": "Подольске",
+        "address": "г. Подольск, ул. Свердлова, 39."
+    },
+    "polevskoy": {
+        "slug": "polevskoy",
+        "name": "Полевской",
+        "genitive": "Полевском",
+        "address": "г. Полевской, ул. Вершинина, 35. "
+    },
+    "pskov": {
+        "slug": "pskov",
+        "name": "Псков",
+        "genitive": "Пскове",
+        "address": "г. Псков, ул. Текстильная, 2."
+    },
+    "pugachev": {
+        "slug": "pugachev",
+        "name": "Пугачёв",
+        "genitive": "Пугачёве",
+        "address": "г. Пугачёв, ул. Максима Горького, 40А. "
+    },
+    "pyatigorsk": {
+        "slug": "pyatigorsk",
+        "name": "Пятигорск",
+        "genitive": "Пятигорске ",
+        "address": "г. Пятигорск, ул. Украинская улица, 44А. "
+    },
+    "revda": {
+        "slug": "revda",
+        "name": "Ревда",
+        "genitive": "Ревде",
+        "address": "г. Ревда, ул. Павла Зыкина, 12."
+    },
+    "rezh": {
+        "slug": "rezh",
+        "name": "Реж ( Свердловская область)",
+        "genitive": "Реже",
+        "address": "г. Реж ( Свердловская область), ул. Спортивная, 5."
+    },
+    "rostov-on-don": {
+        "slug": "rostov-on-don",
+        "name": "Ростов-на-Дону",
+        "genitive": "Ростове-на-Дону",
+        "address": "г. Ростов-на-Дону, ул. Ларина, 4."
+    },
+    "rtishchevo": {
+        "slug": "rtishchevo",
+        "name": "Ртищево",
+        "genitive": "Ртищево ",
+        "address": "г. Ртищево, ул. 60 лет Октября, 16. "
+    },
+    "ruzaevka": {
+        "slug": "ruzaevka",
+        "name": "Рузаевка",
+        "genitive": "Рузаевке",
+        "address": "г. Рузаевка, ул. Бедно-Демьяновская, 14."
+    },
+    "rybinsk": {
+        "slug": "rybinsk",
+        "name": "Рыбинск",
+        "genitive": "Рыбинске",
+        "address": "г. Рыбинск, ул. Свободы, 19. "
+    },
+    "salavat": {
+        "slug": "salavat",
+        "name": "Салават",
+        "genitive": "Салавате",
+        "address": "г. Салават, ул. Нуриманова, 20Л. "
+    },
+    "salsk": {
+        "slug": "salsk",
+        "name": "Сальск",
+        "genitive": "Сальске ",
+        "address": "г. Сальск, ул. Кузнечная улица, 126."
+    },
+    "saransk": {
+        "slug": "saransk",
+        "name": "Саранск",
+        "genitive": "Саранске",
+        "address": "г. Саранск, ул. проспект 50 лет Октября, 13."
+    },
+    "satka": {
+        "slug": "satka",
+        "name": "Сатка",
+        "genitive": "Сатке",
+        "address": "г. Сатка, ул. Молодёжная, 4."
+    },
+    "safonovo": {
+        "slug": "safonovo",
+        "name": "Сафоново",
+        "genitive": "Сафоново ",
+        "address": "г. Сафоново, ул. Советская, 9."
+    },
+    "svetlograd": {
+        "slug": "svetlograd",
+        "name": "Светлоград",
+        "genitive": "Светлограде",
+        "address": "г. Светлоград, ул. Выставочная площадь, 48."
+    },
+    "sevastopol": {
+        "slug": "sevastopol",
+        "name": "Севастополь",
+        "genitive": "Севастополе ",
+        "address": "г. Севастополь, ул. Очаковцев, 36. "
+    },
+    "severomorsk": {
+        "slug": "severomorsk",
+        "name": "Североморск",
+        "genitive": "Североморске ",
+        "address": "г. Североморск, ул. Сафонова, 18."
+    },
+    "simferopol": {
+        "slug": "simferopol",
+        "name": "Симферополь",
+        "genitive": "Симферополе",
+        "address": "г. Симферополь, ул. проспект Победы, 54."
+    },
+    "slantsi": {
+        "slug": "slantsi",
+        "name": "Сланцы",
+        "genitive": "Сланцах",
+        "address": "г. Сланцы, ул. Кирова, 49.  "
+    },
+    "sokol": {
+        "slug": "sokol",
+        "name": "Сокол ( Вологодская область)",
+        "genitive": "Соколе",
+        "address": "г. Сокол ( Вологодская область), ул. Советская, 92."
+    },
+    "sosnovyj-bor": {
+        "slug": "sosnovyj-bor",
+        "name": "Сосновый Бор",
+        "genitive": "Сосновом Боре",
+        "address": "г. Сосновый Бор, ул. проспект Героев, 51. "
+    },
+    "spassk-dalny": {
+        "slug": "spassk-dalny",
+        "name": "Спасск-Дальний",
+        "genitive": "Спасске-Дальнем",
+        "address": "г. Спасск-Дальний, ул. Советская, 21."
+    },
+    "stavropol": {
+        "slug": "stavropol",
+        "name": "Ставрополь",
+        "genitive": "Ставрополе",
+        "address": "г. Ставрополь, ул. Серова, 276А. "
+    },
+    "staraya-kupavna": {
+        "slug": "staraya-kupavna",
+        "name": "Старая Купавна",
+        "genitive": "Старой Купавне",
+        "address": "г. Старая Купавна, ул. Большая Московская, 64."
+    },
+    "sterlitamak": {
+        "slug": "sterlitamak",
+        "name": "Стерлитамак",
+        "genitive": "Стерлитамаке",
+        "address": "г. Стерлитамак, ул. Коммунистическая, 75."
+    },
+    "syktyvkar": {
+        "slug": "syktyvkar",
+        "name": "Сыктывкар",
+        "genitive": "Сыктывкаре ",
+        "address": "г. Сыктывкар, ул. Куратова, 76."
+    },
+    "tver": {
+        "slug": "tver",
+        "name": "Тверь",
+        "genitive": "Твери",
+        "address": "г. Тверь, ул. Волоколамский проспект, 13."
+    },
+    "tobolsk": {
+        "slug": "tobolsk",
+        "name": "Тобольск",
+        "genitive": "Тобольске",
+        "address": "г. Тобольск, ул. 8-й микрорайон, 21. "
+    },
+    "togliatti": {
+        "slug": "togliatti",
+        "name": "Тольятти",
+        "genitive": "Тольятти ",
+        "address": "г. Тольятти, ул. Автостроителей, 11А."
+    },
+    "tyumen": {
+        "slug": "tyumen",
+        "name": "Тюмень",
+        "genitive": "Тюмени",
+        "address": "г. Тюмень, ул. Ямская, 77. "
+    },
+    "uglich": {
+        "slug": "uglich",
+        "name": "Углич",
+        "genitive": "Угличе",
+        "address": "г. Углич, ул. Ленинское шоссе, 4."
+    },
+    "uzlovaya": {
+        "slug": "uzlovaya",
+        "name": "Узловая",
+        "genitive": "Узловой ",
+        "address": "г. Узловая, ул. Смоленского, 18."
+    },
+    "uryupinsk": {
+        "slug": "uryupinsk",
+        "name": "Урюпинск",
+        "genitive": "Урюпинске",
+        "address": "г. Урюпинск, ул. Черняховского, 11. "
+    },
+    "ufa": {
+        "slug": "ufa",
+        "name": "Уфа",
+        "genitive": "Уфе",
+        "address": "г. Уфа, ул. Комсомольская, 109."
+    },
+    "feodosia": {
+        "slug": "feodosia",
+        "name": "Феодосия",
+        "genitive": "Феодосии",
+        "address": "г. Феодосия, ул. Чкалова, 92. "
+    },
+    "frolovo": {
+        "slug": "frolovo",
+        "name": "Фролово",
+        "genitive": "Фролово",
+        "address": "г. Фролово, ул. Комсомольская, 46."
+    },
+    "furmanov": {
+        "slug": "furmanov",
+        "name": "Фурманов",
+        "genitive": "Фурманове",
+        "address": "г. Фурманов, ул. Возрождения, 30."
+    },
+    "khabarovsk": {
+        "slug": "khabarovsk",
+        "name": "Хабаровск",
+        "genitive": "Хабаровске",
+        "address": "г. Хабаровск, ул. Некрасова, 70. "
+    },
+    "khasavyurt": {
+        "slug": "khasavyurt",
+        "name": "Хасавюрт",
+        "genitive": "Хасавюрте ",
+        "address": "г. Хасавюрт, ул. Тотурбиева, 141."
+    },
+    "khimki": {
+        "slug": "khimki",
+        "name": "Химки",
+        "genitive": "Химках",
+        "address": "г. Химки, ул. Энгельса, 20. "
+    },
+    "chapaevsk": {
+        "slug": "chapaevsk",
+        "name": "Чапаевск",
+        "genitive": "Чапаевске",
+        "address": "г. Чапаевск, ул. Калинина, 30. "
+    },
+    "cheboksary": {
+        "slug": "cheboksary",
+        "name": "Чебоксары",
+        "genitive": "Чебоксарах",
+        "address": "г. Чебоксары, ул. проспект Ленина, 1."
+    },
+    "cherepovets": {
+        "slug": "cherepovets",
+        "name": "Череповец",
+        "genitive": "Череповце ",
+        "address": "г. Череповец, ул. М. Горького, 34. "
+    },
+    "chekhov": {
+        "slug": "chekhov",
+        "name": "Чехов",
+        "genitive": "Чехове",
+        "address": "г. Чехов, ул. Молодёжная, 7."
+    },
+    "chusovoy": {
+        "slug": "chusovoy",
+        "name": "Чусовой",
+        "genitive": "Чусовом",
+        "address": "г. Чусовой, ул. Ленина, 8. "
+    },
+    "shebekino": {
+        "slug": "shebekino",
+        "name": "Шебекино",
+        "genitive": "Шебекино ",
+        "address": "г. Шебекино, ул. Железнодорожная, 3."
+    },
+    "shuya": {
+        "slug": "shuya",
+        "name": "Шуя",
+        "genitive": "Шуе",
+        "address": "г. Шуя, ул. Советская, 2."
+    },
+    "shchekino": {
+        "slug": "shchekino",
+        "name": "Щёкино",
+        "genitive": "Щёкино",
+        "address": "г. Щёкино, ул. Советская, 15."
+    },
+    "elektrogorsk": {
+        "slug": "elektrogorsk",
+        "name": "Электрогорск",
+        "genitive": "Электрогорске",
+        "address": "г. Электрогорск, ул. Ухтомского, 9. "
+    },
+    "electrostal": {
+        "slug": "electrostal",
+        "name": "Электросталь",
+        "genitive": "Электростали",
+        "address": "г. Электросталь, ул. Советская, 12."
+    },
+    "yaroslavl": {
+        "slug": "yaroslavl",
+        "name": "Ярославль",
+        "genitive": "Ярославле",
+        "address": "г. Ярославль, ул. проспект Толбухина, 24\/63. "
+    },
+    "yanaul": {
+        "slug": "yanaul",
+        "name": "Янаул",
+        "genitive": "Янауле ",
+        "address": "г. Янаул, ул. Победы, 80. "
+    },
+    "yartsevo": {
+        "slug": "yartsevo",
+        "name": "Ярцево",
+        "genitive": "Ярцево ",
+        "address": "г. Ярцево, ул. Гагарина, 28. "
+    },
+    "yakhroma": {
+        "slug": "yakhroma",
+        "name": "Яхрома",
+        "genitive": "Яхроме",
+        "address": "г. Яхрома, ул. Конярова, 7. "
+    },
+    "kizilyurt": {
+        "slug": "kizilyurt",
+        "name": "Кизилюрт",
+        "genitive": "Кизилюрте ",
+        "address": "г. Кизилюрт, ул. Гагарина, 44. "
+    },
+    "khvalynsk": {
+        "slug": "khvalynsk",
+        "name": "Хвалынск",
+        "genitive": "Хвалынске ",
+        "address": "г. Хвалынск, ул. Ленина, 158А. "
+    },
+    "yuriev-polish": {
+        "slug": "yuriev-polish",
+        "name": "Юрьев-Польский",
+        "genitive": "Юрьев-Польском ",
+        "address": "г. Юрьев-Польский, ул. Горького, 24."
+    },
+    "chernogorsk": {
+        "slug": "chernogorsk",
+        "name": "Черногорск",
+        "genitive": "Черногорске",
+        "address": "г. Черногорск, ул. Советская улица, 84. "
+    },
+    "chernushka": {
+        "slug": "chernushka",
+        "name": "Чернушка",
+        "genitive": "Чернушке",
+        "address": "г. Чернушка, ул. Коммунистическая, 17."
+    },
+    "aramil": {
+        "slug": "aramil",
+        "name": "Арамиль",
+        "genitive": "Арамиле",
+        "address": ""
+    },
+    "ekaterinburg": {
+        "slug": "ekaterinburg",
+        "name": "Екатеринбурге",
+        "genitive": "Екатеринбурге",
+        "address": ""
+    },
+    "cheljabinsk": {
+        "slug": "cheljabinsk",
+        "name": "Челябинск",
+        "genitive": "Челябинске",
+        "address": ""
+    },
+    "perm": {
+        "slug": "perm",
+        "name": "Пермь",
+        "genitive": "Перми",
+        "address": ""
+    },
+    "chita": {
+        "slug": "chita",
+        "name": "Чита",
+        "genitive": "Чите",
+        "address": ""
+    },
+    "penza": {
+        "slug": "penza",
+        "name": "Пенза",
+        "genitive": "Пензе",
+        "address": ""
+    }
+}

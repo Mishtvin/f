@@ -1,0 +1,31 @@
+// ===================================================
+// Theme Global
+// ===================================================
+@import 'global/variables';
+@import 'global/global';
+@import 'global/icons';
+
+// ===================================================
+// Theme Layouts
+// ===================================================
+@import 'layouts/header';
+@import 'layouts/footer';
+@import 'layouts/templates';
+@import 'layouts/article';
+@import 'layouts/swiper';
+@import 'layouts/auth';
+@import 'layouts/datepicker';
+@import 'layouts/fancybox';
+
+// ===================================================
+// Theme Pages
+// ===================================================
+@import 'pages/home-page';
+@import 'pages/success';
+@import 'pages/product-single';
+@import 'pages/cart';
+@import 'pages/dashboard';
+@import 'pages/error';
+@import 'pages/news';
+@import 'pages/contacts';
+@import 'pages/add-product';

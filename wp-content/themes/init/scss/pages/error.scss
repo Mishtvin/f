@@ -1,0 +1,40 @@
+.error-404 {
+    flex-grow: 1;
+    padding: var(--section-padding) 0;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    min-height: calc(100vh - var(--header));
+    
+    .wrapper {
+        width: 100%;
+        position: relative;
+        z-index: 2;
+        width: fit-content;
+        margin: 0 auto;
+        text-align: center;
+
+        h1 {
+            margin-bottom: 0.6rem;
+        }
+
+        p {
+            margin-bottom: 1rem;
+        }
+
+        span {
+            display: block;
+            text-align: center;
+            font-size: 30rem;
+            line-height: 1;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            font-weight: 700;
+            color: var(--opacity);
+        }
+
+    }
+
+}

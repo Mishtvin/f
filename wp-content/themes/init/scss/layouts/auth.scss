@@ -1,0 +1,125 @@
+section.auth {
+
+    .wrapper {
+        min-height: calc(100vh - var(--header));
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: var(--padding-bg) 0;
+
+        .auth-form {
+            width: var(--auth);
+            background: var(--bg);
+            padding: 4rem;
+            border-radius: var(--rad);
+            position: relative;
+
+            &.large {
+                width: var(--auth-large);
+            }
+
+            .auth-text {
+                text-align: center;
+
+                p {
+                    font-weight: 500;
+                    color: var(--text-grey);
+
+                    a {
+                        border-bottom: 1px dashed;
+                    }
+
+                }
+
+            }
+
+            .or {
+                display: flex;
+                align-items: center;
+
+                &::before,
+                &::after {
+                    content: '';
+                    height: 1px;
+                    background: var(--border);
+                    flex-grow: 1;
+                }
+
+                span {
+                    color: var(--text-grey);
+                    font-weight: 500;
+                    margin: 0 2rem;
+                    font-size: calc(var(--fz) * 0.9);
+                }
+
+            }
+
+            .code-form {
+                position: absolute;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                padding: inherit;
+                text-align: center;
+                background: var(--bg);
+                display: none;
+
+                .code-form-content {
+                    height: 100%;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;    
+                }
+            }
+
+        }
+
+        .auth-success {
+            text-align: center;
+
+            &:not(.show) {
+                display: none;
+            }
+
+            .icon {
+                width: 8rem;
+                height: 8rem;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background: var(--opacity);
+                color: var(--theme);
+                font-size: 3.2rem;
+                border-radius: 100%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            .text {
+                font-weight: 500;
+                color: var(--text-grey);
+            }
+
+        }
+
+    }
+
+}
+
+@media screen and (max-width: 782px) {
+
+    section.auth {
+
+        .wrapper {
+
+            .auth-form {
+                padding: 0;
+            }
+
+        }
+
+    }
+
+}

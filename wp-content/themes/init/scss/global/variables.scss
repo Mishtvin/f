@@ -1,0 +1,333 @@
+$theme: #ea47bf;
+$font: 'Mulish';
+$mono: 'Roboto Mono';
+
+$red: #ff1515;
+$blue: #1869ff;
+$orange: #ffae00;
+$white-orange: #ffc64b;
+$green: #2DAF53;
+
+$instagram: #ea47bf;
+$vk: #0077FF;
+$telegram: #2AABEE;
+$whatsapp: #25D366;
+$viber: #7360f2;
+
+:root {
+    --theme: #{$theme};
+    --dark: #{darken($theme, 5%)};
+    --light: #{lighten($theme, 5%)};
+    --v-light: #{lighten($theme, 30%)};
+    --focus: #{transparentize($theme, .7)};
+    --opacity: #{transparentize($theme, .9)};
+    --v-opacity: #{transparentize($theme, .95)};
+
+    --font: '#{$font}', sans-serif;
+    --mono: '#{$mono}', monospace;
+    --text: #000;
+    --text-op: #fff;
+    --text-grey: #888;
+    --text-grey-light: #bfbfbf;
+    --border: #ececec;
+    --shadow-s: 0 0.66rem 2rem rgba(0,0,0,0.05);
+    --shadow-m: 0 1rem 3rem rgba(0,0,0,0.07);
+    --shadow-l: 0 1.5rem 4.5rem rgba(0,0,0,0.07);
+    --shadow-mc: 0 4px 8px rgba(0,0,0,0.05);
+
+    --fz-large: calc(var(--fz) * 1.3);
+    --fz-larger: calc(var(--fz) * 1.15);
+    --fz: 1.5rem;
+    --fz-smaller: calc(var(--fz) * 0.9);
+    --fz-small: calc(var(--fz) * 0.8);
+
+    --bg: #fff;
+    --bg-op: rgba(255,255,255,0.6);
+    --grey-bg: rgba(32, 41, 119, 0.04);
+    --admin-bar: 0px;
+    --container: 144rem;
+    --cities: 3;
+
+    --sidebar: 30rem;
+
+    --small-popup: 40rem;
+    --popup: 50rem;
+    --large-popup: 90rem;
+
+    --top-header: 3.5rem;
+    --middle-header: 8.5rem;
+    --bottom-header: 5rem;
+    --mobile-header: 7rem;
+    --header: calc(var(--top-header) + var(--middle-header) + var(--bottom-header));
+    
+    --padding-lg: 4.8rem;
+    --padding-bg: 3.6rem;
+    --padding-md: 2.8rem;
+    --padding: 2.4rem;
+    --padding-nm: 1.8rem;
+    --padding-sm: 1.2rem;
+    --section-padding: 7rem;
+
+    --field-large: 5.4rem;
+    --field-big: 5rem;
+    --field: 4.5rem;
+    --field-medium: 3.8rem;
+    --field-small: 3.2rem;
+    --field-mini: 2.8rem;
+
+    --file-avatar: 5.6rem;
+    --file-block: 3;
+
+    --time-input: 7rem;
+    --date-input: 12rem;
+
+    --checkbox: 1.8rem;
+
+    --rad-lg: 1.7rem;
+    --rad-bg: 1.4rem;
+    --rad-md: 1.1rem;
+    --rad: 0.8rem;
+    --rad-sm: 0.4rem;
+
+    --red: #{$red};
+    --red-dark: #{darken($red, 10%)};
+    --red-light: #{lighten($red, 10%)};
+    --red-focus: #{transparentize($red, .7)};
+    --red-opacity: #{transparentize($red, .9)};
+    --red-v-opacity: #{transparentize($red, .95)};
+
+    --green: #{$green};
+    --green-dark: #{darken($green, 10%)};
+    --green-light: #{lighten($green, 10%)};
+    --green-focus: #{transparentize($green, .7)};
+    --green-opacity: #{transparentize($green, .9)};
+    --green-v-opacity: #{transparentize($green, .95)};
+
+    --blue: #{$blue};
+    --blue-dark: #{darken($blue, 10%)};
+    --blue-light: #{lighten($blue, 10%)};
+    --blue-focus: #{transparentize($blue, .7)};
+    --blue-opacity: #{transparentize($blue, .9)};
+    --blue-v-opacity: #{transparentize($blue, .95)};
+
+    --orange: #{$orange};
+    --orange-dark: #{darken($orange, 10%)};
+    --orange-light: #{lighten($orange, 10%)};
+    --orange-focus: #{transparentize($orange, .7)};
+    --orange-opacity: #{transparentize($orange, .9)};
+    --orange-v-opacity: #{transparentize($orange, .95)};
+
+    --instagram: #{$instagram};
+    --instagram-dark: #{darken($instagram, 10%)};
+    --instagram-light: #{lighten($instagram, 10%)};
+    --instagram-focus: #{transparentize($instagram, .7)};
+    --instagram-opacity: #{transparentize($instagram, .9)};
+    --instagram-v-opacity: #{transparentize($instagram, .95)};
+
+    --vk: #{$vk};
+    --vk-dark: #{darken($vk, 10%)};
+    --vk-light: #{lighten($vk, 10%)};
+    --vk-focus: #{transparentize($vk, .7)};
+    --vk-opacity: #{transparentize($vk, .9)};
+    --vk-v-opacity: #{transparentize($vk, .95)};
+
+    --telegram: #{$telegram};
+    --telegram-dark: #{darken($telegram, 10%)};
+    --telegram-light: #{lighten($telegram, 10%)};
+    --telegram-focus: #{transparentize($telegram, .7)};
+    --telegram-opacity: #{transparentize($telegram, .9)};
+    --telegram-v-opacity: #{transparentize($telegram, .95)};
+
+    --viber: #{$viber};
+    --viber-dark: #{darken($viber, 10%)};
+    --viber-light: #{lighten($viber, 10%)};
+    --viber-focus: #{transparentize($viber, .7)};
+    --viber-opacity: #{transparentize($viber, .9)};
+    --viber-v-opacity: #{transparentize($viber, .95)};
+
+    --whatsapp: #{$whatsapp};
+    --whatsapp-dark: #{darken($whatsapp, 10%)};
+    --whatsapp-light: #{lighten($whatsapp, 10%)};
+    --whatsapp-focus: #{transparentize($whatsapp, .7)};
+    --whatsapp-opacity: #{transparentize($whatsapp, .9)};
+    --whatsapp-v-opacity: #{transparentize($whatsapp, .95)};
+
+    --h1: 3.2rem;
+    --h1-large: 3.8rem;
+    --h2: 2.8rem;
+    --h3: 2.4rem;
+    --h4: 2.2rem;
+    --h5: 2rem;
+    --h6: 1.8rem;
+
+    --inputs-line: 2;
+
+    --scroll_bar: 8px;
+    --notifications: 42rem;
+    --auth: 42rem;
+    --auth-large: 56rem;
+
+    --categories: 6;
+    --products: 4;
+    --small-products: 4;
+    --very-small-products: 3;
+    --news: 4;
+    --taxonomies: 4;
+
+    --cart-sidebar: 44rem;
+
+    --auth: 42rem;
+    --auth-large: 56rem;
+    --dashboard-sidebar: 26rem;
+    --single-sidebar: 38rem;
+    --news-sidebar: 26rem;
+
+    --news-categories: 7;
+    --reviews: 2;
+    --advantages: 4;
+    --cards: 3;
+    --links: 5;
+
+    --icon-advantages: 3;
+
+    --contacts-sidebar: 32rem;
+}
+
+.dark {
+    --bg: #222;
+    --text: #fff;
+    --text-op: #202f51;
+    --text-grey: rgba(255, 255, 255, 0.6);
+    --border: rgba(255, 255, 255, 0.08);
+    --grey-bg: rgba(255, 255, 255, 0.04);
+    
+    color: var(--text);
+}
+
+.red-theme {
+    --theme: var(--red);
+    --dark: var(--red-dark);
+    --light: var(--red-light);
+    --focus: var(--red-focus);
+    --opacity: var(--red-opacity);
+    --v-opacity: var(--red-v-opacity);
+}
+
+.green-theme {
+    --theme: var(--green);
+    --dark: var(--green-dark);
+    --light: var(--green-light);
+    --focus: var(--green-focus);
+    --opacity: var(--green-opacity);
+    --v-opacity: var(--green-v-opacity);
+}
+
+.orange-theme {
+    --theme: var(--orange);
+    --dark: var(--orange-dark);
+    --light: var(--orange-light);
+    --focus: var(--orange-focus);
+    --opacity: var(--orange-opacity);
+    --v-opacity: var(--orange-v-opacity);
+}
+
+.blue-theme {
+    --theme: var(--blue);
+    --dark: var(--blue-dark);
+    --light: var(--blue-light);
+    --focus: var(--blue-focus);
+    --opacity: var(--blue-opacity);
+    --v-opacity: var(--blue-v-opacity);
+}
+
+.whatsapp-theme {
+    --theme: var(--whatsapp);
+    --dark: var(--whatsapp-dark);
+    --light: var(--whatsapp-light);
+    --focus: var(--whatsapp-focus);
+    --opacity: var(--whatsapp-opacity);
+    --v-opacity: var(--whatsapp-v-opacity);
+}
+
+.telegram-theme {
+    --theme: var(--telegram);
+    --dark: var(--telegram-dark);
+    --light: var(--telegram-light);
+    --focus: var(--telegram-focus);
+    --opacity: var(--telegram-opacity);
+    --v-opacity: var(--telegram-v-opacity);
+}
+
+.vk-theme {
+    --theme: var(--vk);
+    --dark: var(--vk-dark);
+    --light: var(--vk-light);
+    --focus: var(--vk-focus);
+    --opacity: var(--vk-opacity);
+    --v-opacity: var(--vk-v-opacity);
+}
+
+.instagram-theme {
+    --theme: var(--instagram);
+    --dark: var(--instagram-dark);
+    --light: var(--instagram-light);
+    --focus: var(--instagram-focus);
+    --opacity: var(--instagram-opacity);
+    --v-opacity: var(--instagram-v-opacity);
+}
+
+.viber-theme {
+    --theme: var(--viber);
+    --dark: var(--viber-dark);
+    --light: var(--viber-light);
+    --focus: var(--viber-focus);
+    --opacity: var(--viber-opacity);
+    --v-opacity: var(--viber-v-opacity);
+}
+
+@media (max-width: 767.99px) {
+    :root {
+        --container: calc(100% - 5rem);
+        --categories: 2;
+        --products: 1;
+        --small-products: 1;
+        --news: 1;
+        --cities: 2;
+        --inputs-line: 1;
+        --reviews: 1;
+        --section-padding: 6rem;
+        --header: var(--mobile-header);
+        --advantages: 1;
+        --cards: 1;
+        --very-small-products: 1;
+        --icon-advantages: 1;
+        --links: 1;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024.99px) {
+
+    :root {
+        --container: 50rem;
+        --categories: 2;
+        --products: 2;
+        --small-products: 2;
+        --news: 2;
+        --reviews: 1;
+        --header: var(--mobile-header);
+        --advantages: 2;
+        --cards: 2;
+        --very-small-products: 1;
+        --icon-advantages: 2;
+        --links: 2;
+    }
+
+}
+
+@media (max-width: 1499px) and (min-width: 1025px) {
+
+    :root {
+        --container: 132rem;
+    }
+
+}

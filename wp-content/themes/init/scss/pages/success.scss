@@ -1,0 +1,35 @@
+section.success {
+    min-height: calc(100vh - var(--admin-bar) - var(--header));
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .icon {
+            color: var(--green);
+            font-size: 8rem;
+            display: flex;
+        }
+
+        .btn {
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+    }
+
+}
+
+section.bill {
+
+    .wrapper {
+        padding: 4rem;
+        background: var(--bg);
+        border: 1px solid var(--border);
+    }
+
+}

@@ -1,0 +1,114 @@
+{
+    "tags": {
+        "novinki": {
+            "slug": "novinki",
+            "title": "Новинки",
+            "parent": ""
+        },
+        "lyubovnicze": {
+            "slug": "lyubovnicze",
+            "title": "Цветы любовнице",
+            "parent": ""
+        },
+        "kollege": {
+            "slug": "kollege",
+            "title": "Цветы коллеге",
+            "parent": ""
+        },
+        "vrachu": {
+            "slug": "vrachu",
+            "title": "Цветы врачу",
+            "parent": ""
+        },
+        "na-9-maya": {
+            "slug": "na-9-maya",
+            "title": "Цветы на 9 мая",
+            "parent": ""
+        },
+        "na-poslednij-zvonok-vypusknoj": {
+            "slug": "na-poslednij-zvonok-vypusknoj",
+            "title": "Цветы на последний звонок \/ Выпускной",
+            "parent": ""
+        },
+        "v-roddom": {
+            "slug": "v-roddom",
+            "title": "Цветы в роддом",
+            "parent": ""
+        },
+        "na-1-sentyabrya": {
+            "slug": "na-1-sentyabrya",
+            "title": "Цветы на 1 сентября",
+            "parent": ""
+        },
+        "uchitelnicze": {
+            "slug": "uchitelnicze",
+            "title": "Цветы учительнице",
+            "parent": ""
+        },
+        "na-svadbu": {
+            "slug": "na-svadbu",
+            "title": "Цветы на свадьбу",
+            "parent": ""
+        },
+        "8-marta": {
+            "slug": "8-marta",
+            "title": "Цветы на 8 марта",
+            "parent": ""
+        },
+        "akcii": {
+            "slug": "akcii",
+            "title": "Акции",
+            "parent": ""
+        },
+        "babushke": {
+            "slug": "babushke",
+            "title": "Цветы в благодарность",
+            "parent": ""
+        },
+        "den-rozhdeniya": {
+            "slug": "den-rozhdeniya",
+            "title": "Цветы на день рождения",
+            "parent": ""
+        },
+        "den-rozhdeniya-podarochnye-nabory": {
+            "slug": "den-rozhdeniya-podarochnye-nabory",
+            "title": "Подарочные наборы на день рождения",
+            "parent": ""
+        },
+        "den-rozhdeniya-hity-prodazh": {
+            "slug": "den-rozhdeniya-hity-prodazh",
+            "title": "День рождения Хиты продаж",
+            "parent": ""
+        },
+        "izvinenie": {
+            "slug": "izvinenie",
+            "title": "Цветы для извинения",
+            "parent": ""
+        },
+        "dlya-mamy": {
+            "slug": "dlya-mamy",
+            "title": "Цветы на День Матери",
+            "parent": ""
+        },
+        "podarochnye-nabory": {
+            "slug": "podarochnye-nabory",
+            "title": "Подарочные наборы",
+            "parent": ""
+        },
+        "dlya-devushki": {
+            "slug": "dlya-devushki",
+            "title": "Цветы для признания в любви",
+            "parent": ""
+        },
+        "hity-prodazh": {
+            "slug": "hity-prodazh",
+            "title": "Хиты продаж",
+            "parent": ""
+        },
+        "yagody": {
+          "slug": "yagody",
+          "title": "Ягоды",
+          "parent": ""
+        }
+    }
+}
