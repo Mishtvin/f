@@ -1,0 +1,277 @@
+.wrap {
+    .tablenav {
+        display: flex;
+        justify-content: space-between;
+        height: auto;
+        margin-bottom: 10px;
+
+        &.top {
+            padding-top: 5px;
+        }
+
+        .version-blocks {
+            float: right;
+
+            button {
+                width: 30px;
+                height: 30px;
+                padding: 0;
+                background-color: #fff;
+                color: #3985ba;
+                border: 1px solid;
+            }
+        }
+    }
+}
+
+
+table.mail-list {
+
+    .column-mail {
+
+        &.mail-check {
+            width: 50px;
+            text-align: center;
+
+            input{
+                margin: 0;
+                padding: 0;
+            }
+        }
+
+        &.mail-id {
+            width: 50px;
+            text-align: center;
+        }
+
+        &.mail-info-product {
+            width: 250px;
+        }
+        
+        &.mail-date-processing{
+            p{
+                margin-bottom: 0;
+            }
+        }
+
+        &.mail-date,
+        &.mail-date-processing,
+        &.mail-status {
+            width: 150px;
+            text-align: center;
+        }
+
+        &.mail-status-button {
+            width: 100px;
+            text-align: center;
+            padding: 28px 10px;
+        }
+    }
+
+    .dropdown-product {
+        display: none;
+        min-height: 55px;
+
+        .dropdown-address{
+            margin-bottom: 20px;
+
+            td{
+                padding: 10px;
+            }
+        }
+
+        >td {
+            padding: 20px 30px;
+            border: 1px solid #b7b7b7;
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+
+                tbody tr:nth-child(odd) {
+                    background-color: #f9f9f9;
+                }
+
+                tfoot td {
+                    border-top: 1px solid;
+                }
+            }
+        }
+    }
+
+    >tbody {
+        >tr {
+            >td {
+                vertical-align: middle;
+                min-height: 55px;
+                padding: 20px 10px;
+                border-bottom: 1px solid #d6d6d6;
+
+                &.no_mail{
+                    text-align: center;
+                }
+
+                td {
+                    padding: 0px;
+                }
+
+                tr {
+                    &.item-product td {
+                        padding: 17px;
+
+                        &.product-img {
+                            padding: 0px;
+                            text-align: center;
+                        }
+
+                        &.product-quantity {
+                            text-align: center;
+                        }
+                    }
+
+                    &.total-product td {
+                        padding: 17px;
+
+                        &.info-text {
+                            text-align: right;
+                            font-weight: bold;
+                        }
+
+                        &.total-text {
+                            font-weight: bold;
+                            background-color: #e9ffe7;
+                            border-bottom: 1px solid #000;
+                        }
+                    }
+                }
+
+                &.mail-info-user {
+                    background-color: #fff5ec;
+                    padding: 10px;
+
+                    table {
+                        width: 100%;
+
+                        thead td {
+                            font-weight: 500;
+                            font-style: italic;
+                            color: #848484;
+                        }
+
+                        td {
+
+                            &.user-name,
+                            &.user-phone,
+                            &.type {
+                                width: 130px;
+                            }
+
+                            &.user-col {
+                                text-align: center;
+                                width: 50px;
+                            }
+
+                            &.user-change {
+                                text-align: center;
+                                width: 80px;
+                            }
+
+                            &.user-addres {
+                                width: 200px;
+                            }
+                        }
+                    }
+                }
+
+                &.mail-info-product {
+                    cursor: pointer;
+                    padding: 32px 20px;
+                    background-color: #ddf5ff;
+
+                    &:hover {
+                        background-color: #fff;
+                    }
+
+                    span.toggle-indicator {
+                        &:before {
+                            float: right;
+                            content: "\f140";
+                            display: inline-block;
+                            font: normal 20px/1 dashicons;
+                            speak: none;
+                            -webkit-font-smoothing: antialiased;
+                            -moz-osx-font-smoothing: grayscale;
+                            text-decoration: none !important;
+                        }
+
+                        &.active:before {
+                            content: "\f142";
+                        }
+                    }
+                }
+            }
+
+            &:nth-child(odd) {
+                background-color: transparent;
+            }
+
+            &:nth-child(4n+1) {
+                background-color: #f9f9f9;
+            }
+        }
+
+        th {
+            border-bottom: 1px solid #000;
+        }
+    }
+
+    th {
+        font-weight: bold;
+    }
+}
+
+.pagination-wrapper {
+
+    & > * {
+        height: 30px;
+        width: 30px;
+        color: #0071a1;
+        border: 1px solid #0071a1;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 3px;
+        text-decoration: none;
+        box-sizing: border-box;
+        margin: 0 2px;
+
+        &:hover {
+            background: #f1f1f1;
+            border-color: #016087;
+            color: #016087;
+        }
+
+        &.active {
+            background: #0071a1;
+            color: #fff;
+        }
+
+        &.disabled {
+            color: #a0a5aa;
+            border-color: #ddd;
+            background: #f7f7f7;
+        }
+
+        &:first-child {
+            margin-left: 0;
+        }
+
+        &:last-child {
+            margin-right: 0;
+        }
+
+    }
+
+}
+
+/*# sourceMappingURL=admin.css.map */
